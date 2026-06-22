@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="AI method detail">
+<title>Method — AI Hustle</title>
+<link rel="stylesheet" href="css/style.css">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>💡</text></svg>">
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1693165095863269" crossorigin="anonymous"></script>
+</head>
+<body>
+<header class="header">
+  <div class="container header-inner">
+    <a href="index.html" class="logo"><span class="logo-icon">💡</span>AI <span class="accent">Hustle</span></a>
+    <nav class="nav-links">
+      <a href="index.html">Home</a>
+      <a href="index.html#categories">Categories</a>
+      <a href="guide.html">Guide</a>
+      <a href="about.html">About</a>
+    </nav>
+    <button class="mobile-toggle" aria-label="Menu">☰</button>
+  </div>
+</header>
+
+<section class="section">
+  <div class="container" id="methodContent" style="max-width:800px">
+    <div class="loading"><div class="spinner"></div><p>Loading method...</p></div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
+    <div id="relatedMethods" style="max-width:800px;margin:0 auto"></div>
+  </div>
+</section>
+
+<footer class="footer">
+  <div class="container">
+    <div class="footer-grid">
+      <div class="footer-brand"><h3>💡 AI Hustle</h3><p>Methods, tools, and platforms. No promises — just starting points.</p></div>
+      <div class="footer-col"><h4>Explore</h4><a href="index.html">All Methods</a><a href="guide.html">Guide</a><a href="about.html">About</a></div>
+    </div>
+    <div class="footer-bottom"><span>&copy; 2026 AI Hustle</span></div>
+  </div>
+</footer>
+
+<script src="js/data.js?v=20260621"></script>
+<script>
+document.querySelector('.mobile-toggle').addEventListener('click',function(){
+  document.querySelector('.nav-links').classList.toggle('open');
+});
+
+(function(){
+  var d=window.__DATA__;
+  if(!d){document.getElementById('methodContent').innerHTML='<div class="empty-state"><p>Failed to load data.</p></div>';return;}
+
+  var params=new URLSearchParams(window.location.search);
+  var id=params.get('id');
+  var m=d.methods.find(function(x){return x.id===id;});
+
+  if(!m){
+    document.getElementById('methodContent').innerHTML='<div class="empty-state" style="text-align:center;padding:60px"><p style="font-size:2rem;margin-bottom:12px;">🔍</p><p style="font-size:1.2rem;color:var(--text2);">Method not found</p><p style="margin-top:12px;"><a href="index.html" style="color:var(--c-sun);">← Back to all methods</a></p></div>';
+    return;
+  }
+
+  document.title=m.title+' — AI Hustle';
+  var cat=d.categories.find(function(c){return c.id===m.category;});
+
+  var catColors={'freelancing':'var(--c-sun)','digital-products':'var(--c-coral)','content-creation':'var(--c-lime)','ai-services':'var(--c-sky)'};
+  var catColor=catColors[m.category]||'var(--c-sun)';
+
+  var html='';
+
+  // Breadcrumb
+  html+='<div style="margin-bottom:24px;color:var(--text3);font-size:0.9rem;">';
+  html+='<a href="index.html" style="color:var(--text2);">Home</a> / ';
+  html+='<a href="index.html#allMethods" style="color:var(--text2);">All Methods</a> / ';
+  html+='<span>'+m.title+'</span></div>';
+
+  // Hero
+  html+='<div style="display:flex;align-items:flex-start;gap:20px;margin-bottom:32px;">';
+  html+='<div style="width:72px;height:72px;border-radius:18px;display:flex;align-items:center;justify-content:center;font-size:2.2rem;background:rgba(255,140,0,0.08);flex-shrink:0;">'+m.icon+'</div>';
+  html+='<div><h1 style="font-size:2rem;font-weight:900;margin-bottom:8px;">'+m.title+'</h1>';
+  html+='<span style="display:inline-block;padding:4px 14px;border-radius:20px;font-size:0.82rem;font-weight:600;background:rgba(255,140,0,0.1);color:'+catColor+';margin-right:8px;">'+cat.icon+' '+cat.name+'</span>';
+  html+='<span style="display:inline-block;padding:4px 14px;border-radius:20px;font-size:0.82rem;font-weight:600;background:rgba(255,255,255,0.05);color:var(--text2);">Difficulty: '+m.difficulty+'</span></div></div>';
+
+  // Summary
+  html+='<p style="font-size:1.1rem;color:var(--text2);line-height:1.8;margin-bottom:36px;">'+m.summary+'</p>';
+
+  // Steps
+  html+='<h2 style="font-size:1.4rem;font-weight:800;margin-bottom:20px;">📋 Step-by-Step Guide</h2>';
+  if(m.steps){
+    m.steps.forEach(function(s,i){
+      html+='<div style="margin-bottom:24px;padding:24px;background:#fff;border:1px solid var(--border);border-radius:var(--radius);">';
+      html+='<h3 style="font-size:1.05rem;font-weight:700;margin-bottom:8px;color:'+catColor+';">Step '+(i+1)+': '+s.title+'</h3>';
+      html+='<p style="color:var(--text2);line-height:1.8;">'+s.desc+'</p></div>';
+    });
+  }
+
+  // Example
+  if(m.example){
+    html+='<h2 style="font-size:1.4rem;font-weight:800;margin:40px 0 20px;">🌟 Real Example</h2>';
+    html+='<div style="padding:24px;background:rgba(255,140,0,0.04);border:1px solid rgba(255,140,0,0.15);border-radius:var(--radius);margin-bottom:36px;">';
+    html+='<p style="color:var(--text2);line-height:1.9;">'+m.example+'</p></div>';
+  }
+
+  // Tools
+  html+='<h2 style="font-size:1.4rem;font-weight:800;margin:40px 0 16px;">🛠️ Tools You Need</h2>';
+  html+='<div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:28px;">';
+  m.tools.forEach(function(t){
+    html+='<span style="padding:8px 16px;background:#fff;border:1px solid var(--border);border-radius:50px;font-size:0.9rem;color:var(--text);">'+t+'</span>';
+  });
+  html+='</div>';
+
+  // Platforms
+  html+='<h2 style="font-size:1.4rem;font-weight:800;margin:36px 0 16px;">🌍 Where to Find Work</h2>';
+  html+='<div style="display:flex;flex-wrap:wrap;gap:8px;margin-bottom:28px;">';
+  m.platforms.forEach(function(p){
+    html+='<span style="padding:8px 16px;background:#fff;border:1px solid var(--border);border-radius:50px;font-size:0.9rem;color:var(--text);">'+p+'</span>';
+  });
+  html+='</div>';
+
+  // Tips
+  if(m.tips&&m.tips.length>0){
+    html+='<h2 style="font-size:1.4rem;font-weight:800;margin:40px 0 16px;">💡 Pro Tips</h2>';
+    html+='<ul style="padding-left:20px;margin-bottom:36px;">';
+    m.tips.forEach(function(t){
+      html+='<li style="color:var(--text2);line-height:2;margin-bottom:6px;">'+t+'</li>';
+    });
+    html+='</ul>';
+  }
+
+  // CTA
+  html+='<div style="text-align:center;padding:40px 0;">';
+  html+='<a href="index.html" style="display:inline-block;padding:14px 36px;background:linear-gradient(135deg,#FF8C00,#FF6B6B);color:#fff;border-radius:50px;font-weight:700;font-size:1.05rem;text-decoration:none;">← Browse All Methods</a></div>';
+
+  document.getElementById('methodContent').innerHTML=html;
+
+  // Related methods
+  var related=d.methods.filter(function(x){return x.category===m.category&&x.id!==m.id;}).slice(0,4);
+  if(related.length>0){
+    var rh='<h2 style="font-size:1.2rem;margin-bottom:16px;">More in '+cat.name+'</h2>';
+    rh+='<div style="display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px;">';
+    related.forEach(function(r){
+      rh+='<a href="method.html?id='+r.id+'" style="padding:16px;background:#fff;border:1px solid var(--border);border-radius:var(--radius-sm);text-decoration:none;transition:all 0.2s;" onmouseover="this.style.borderColor=\''+catColor+'\'" onmouseout="this.style.borderColor=\'var(--border)\'"><span style="font-size:1.3rem;">'+r.icon+'</span> <span style="font-weight:600;color:var(--text);">'+r.title+'</span></a>';
+    });
+    rh+='</div>';
+    document.getElementById('relatedMethods').innerHTML=rh;
+  }
+})();
+</script>
+</body>
+</html>

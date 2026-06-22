@@ -1,0 +1,2449 @@
+// AI Hustle — Complete Tutorial Data
+window.__DATA__ = {
+  "categories": [
+    {
+      "id": "freelancing",
+      "name": "Freelancing",
+      "icon": "💼"
+    },
+    {
+      "id": "digital-products",
+      "name": "Digital Products",
+      "icon": "🛍️"
+    },
+    {
+      "id": "content-creation",
+      "name": "Content Creation",
+      "icon": "📝"
+    },
+    {
+      "id": "ai-services",
+      "name": "AI Services",
+      "icon": "🤖"
+    }
+  ],
+  "methods": [
+    {
+      "id": "ai-copywriting",
+      "category": "freelancing",
+      "title": "AI-Assisted Copywriting",
+      "icon": "✍️",
+      "tools": [
+        "ChatGPT",
+        "Claude",
+        "Jasper",
+        "Copy.ai"
+      ],
+      "platforms": [
+        "Fiverr",
+        "Upwork",
+        "Freelancer",
+        "PeoplePerHour"
+      ],
+      "summary": "Write sales copy, email sequences, landing pages, and ad scripts using AI. One of the most in-demand freelancing skills with low barrier to entry.",
+      "difficulty": "Easy",
+      "url": "https://chat.openai.com",
+      "steps": [
+        {
+          "title": "Learn the basics",
+          "desc": "Before using AI, understand what makes good copy: clear headlines, benefit-focused body text, strong calls to action. Spend an afternoon watching copywriting fundamentals on YouTube."
+        },
+        {
+          "title": "Set up your AI tool",
+          "desc": "ChatGPT and Claude both have free tiers. Start by asking for sample copy: 'Write a landing page for a meal delivery service.' Experiment with different prompts to understand what works."
+        },
+        {
+          "title": "Create sample work",
+          "desc": "Build 3 samples: a landing page, an email sequence, and product descriptions. Use AI for the first draft, then polish with your own edits. These are your portfolio."
+        },
+        {
+          "title": "Launch on Fiverr",
+          "desc": "Create 2-3 gigs: 'I will write persuasive sales copy' or 'I will write email sequences.' Use samples as gig images. Price first orders at $15-25 to attract reviews."
+        },
+        {
+          "title": "Deliver and grow",
+          "desc": "When orders come, use AI to draft, review carefully, and deliver within 24 hours. Each review builds momentum. After 10+ reviews, raise prices to $50+ per gig."
+        }
+      ],
+      "example": "Sarah started offering AI copywriting on Fiverr in January 2026. Her first gig was 'I will write a landing page' priced at $20. She used ChatGPT to draft, spent 30 minutes editing, and delivered. After 12 orders with a 4.9 rating, she raised prices to $50/gig and now averages 15-20 orders per month, earning $750-1000/month from copywriting alone.",
+      "tips": [
+        "Always review AI output before sending - never deliver raw AI text",
+        "Ask clients for brand voice guides or examples of copy they like",
+        "Build a swipe file of great real-world copy for ongoing inspiration"
+      ]
+    },
+    {
+      "id": "ai-voiceover",
+      "category": "freelancing",
+      "title": "AI Voiceover Services",
+      "icon": "🎤",
+      "tools": [
+        "ElevenLabs",
+        "Play.ht",
+        "Murf AI",
+        "WellSaid Labs"
+      ],
+      "platforms": [
+        "Fiverr",
+        "Upwork",
+        "Voices.com",
+        "ACX (Audiobooks)"
+      ],
+      "summary": "Create professional voiceovers for videos, audiobooks, and ads. AI voices are nearly indistinguishable from human voices and support dozens of languages.",
+      "difficulty": "Easy",
+      "url": "https://elevenlabs.io",
+      "steps": [
+        {
+          "title": "Choose your voice tool",
+          "desc": "ElevenLabs is the industry leader. Sign up for free (10 min/month). Browse the voice library and pick 2-3 voices for your regular use. Listen to samples to understand their range and tone."
+        },
+        {
+          "title": "Learn voice direction",
+          "desc": "AI voices need direction. Use punctuation, emphasis markers, and SSML tags to control pacing and tone. Practice with a 30-second script until it sounds completely natural."
+        },
+        {
+          "title": "Create demo samples",
+          "desc": "Record 3 tracks: a 60-second commercial ad, a 2-minute explainer narration, and a 60-second audiobook excerpt. Host on SoundCloud or as video clips. These are what clients judge."
+        },
+        {
+          "title": "List on Fiverr",
+          "desc": "Create gigs like 'I will record a professional AI voiceover' with tiered pricing by length. Include your demo samples. Start at $10-15 for short scripts."
+        },
+        {
+          "title": "Expand to audiobooks",
+          "desc": "Once established, sign up on ACX (Amazon's audiobook platform). Authors need narrators. AI voiceover can produce a 10-hour audiobook in days instead of weeks - a huge time advantage."
+        }
+      ],
+      "example": "David started on Fiverr offering AI voiceovers for YouTube explainer videos. His $15 gig for a 2-minute voiceover got 8 orders the first month. He reinvested in ElevenLabs' paid plan for higher quality and more voices. By month 3, he was charging $45 per video with repeat clients from small YouTube channels, earning roughly $600/month.",
+      "tips": [
+        "Always disclose you use AI voice technology - be upfront with clients",
+        "Match voice tone to content: warm for stories, crisp for corporate, energetic for ads",
+        "Offer revisions - sometimes clients want different pacing or emphasis"
+      ]
+    },
+    {
+      "id": "ai-video-editing",
+      "category": "freelancing",
+      "title": "AI Video Editing",
+      "icon": "🎬",
+      "tools": [
+        "Descript",
+        "CapCut",
+        "Runway",
+        "Opus Clip"
+      ],
+      "platforms": [
+        "Fiverr",
+        "Upwork",
+        "YouTube (direct outreach)"
+      ],
+      "summary": "Edit videos faster using AI for automatic captions, background removal, clip generation, and effects. Offer editing services to YouTubers and businesses.",
+      "difficulty": "Medium",
+      "url": "https://www.descript.com",
+      "steps": [
+        {
+          "title": "Pick your tool",
+          "desc": "Descript is ideal for talking-head and interview videos - edit video by editing text. CapCut is better for short-form content like TikToks and Reels. Start with free versions."
+        },
+        {
+          "title": "Learn the workflow",
+          "desc": "Practice on free stock footage: import, add AI captions, trim dead air, add transitions. Master the 3 core skills: cutting, captioning, and basic color correction."
+        },
+        {
+          "title": "Create a portfolio reel",
+          "desc": "Edit 3 sample videos: a 60-second social clip with captions, a 5-minute talking-head video with chapters, a short product demo. Post on YouTube playlist or portfolio page."
+        },
+        {
+          "title": "Find your first clients",
+          "desc": "Search YouTube for creators who upload regularly but have amateur editing. Send a friendly message offering one free trial edit. If they like it, they become paying clients. Also create a Fiverr gig."
+        },
+        {
+          "title": "Scale with templates",
+          "desc": "Create editing templates and presets in your tool. This speeds up workflow dramatically. With solid templates, you can handle 3-4 regular clients simultaneously."
+        }
+      ],
+      "example": "Mike started editing for a small tech YouTuber who uploaded twice weekly. Using Descript, he cut editing time from 3 hours to 45 minutes per video. The YouTuber referred 2 other creators. Within 4 months, Mike had 5 regular clients paying $200-400/month each. That's $1000-2000 monthly recurring from video editing alone.",
+      "tips": [
+        "Always ask clients for editing style preferences upfront - save revision time",
+        "Learn keyboard shortcuts - they can double your editing speed",
+        "Keep a folder of stock music, sound effects, and transitions ready to use"
+      ]
+    },
+    {
+      "id": "ai-translation",
+      "category": "freelancing",
+      "title": "AI-Assisted Translation",
+      "icon": "🌐",
+      "tools": [
+        "DeepL",
+        "ChatGPT",
+        "Claude"
+      ],
+      "platforms": [
+        "Upwork",
+        "Fiverr",
+        "ProZ",
+        "TranslatorsCafe"
+      ],
+      "summary": "Translate documents, websites, and subtitles with AI assistance. Human review plus AI speed gives you an edge over both pure human translators and pure machine translation.",
+      "difficulty": "Easy",
+      "url": "https://www.deepl.com",
+      "steps": [
+        {
+          "title": "Choose language pairs",
+          "desc": "Focus on 1-2 pairs where you're fluent in both. High-demand pairs: English-Spanish, English-German, English-Japanese. DeepL handles European languages best; ChatGPT is stronger for Asian languages."
+        },
+        {
+          "title": "Set up your workflow",
+          "desc": "Run source text through DeepL or ChatGPT for the first-pass translation. Then read through carefully, fixing awkward phrasing, cultural references, and context-specific terms. This hybrid approach is 3x faster than translating from scratch."
+        },
+        {
+          "title": "Specialize in a document type",
+          "desc": "Pick a specialty: legal documents, marketing materials, technical manuals, or subtitles. Each has different terminology. Specializing lets you charge more and work faster."
+        },
+        {
+          "title": "Create translation samples",
+          "desc": "Translate a short article in your language pair. Show the original and your translation side by side. This demonstrates quality better than just claiming fluency."
+        },
+        {
+          "title": "List on translation platforms",
+          "desc": "ProZ and TranslatorsCafe are specialized translation marketplaces. Upwork also has many translation jobs. Apply to jobs with your samples ready."
+        }
+      ],
+      "example": "Ana speaks Spanish and English fluently. She used DeepL to translate e-commerce product listings from English to Spanish. Her first client was a Shopify store expanding to Latin America. She charged $0.08/word. With AI handling the first draft, she completes projects 3x faster than manual translation. She now manages 4 regular e-commerce clients earning about $1200/month.",
+      "tips": [
+        "Always disclose AI assistance - many clients appreciate the speed",
+        "Build a glossary of industry-specific terms for consistency",
+        "Never skip human review - AI misses context and cultural nuances"
+      ]
+    },
+    {
+      "id": "ai-graphic-design",
+      "category": "freelancing",
+      "title": "AI Graphic Design",
+      "icon": "🎨",
+      "tools": [
+        "Canva",
+        "Adobe Firefly",
+        "Midjourney",
+        "Figma AI"
+      ],
+      "platforms": [
+        "Fiverr",
+        "Upwork",
+        "99designs",
+        "DesignCrowd"
+      ],
+      "summary": "Design social media graphics, ad creatives, banners, and presentations using AI tools. Faster turnaround means more clients and higher income.",
+      "difficulty": "Easy",
+      "url": "https://www.canva.com",
+      "steps": [
+        {
+          "title": "Master Canva AI features",
+          "desc": "Canva's free AI tools include Magic Write for copy, Magic Design for layouts, and background remover. Spend a weekend learning all AI features. Canva is the fastest path to professional-looking designs without design training."
+        },
+        {
+          "title": "Build a portfolio",
+          "desc": "Create 10 sample designs across categories: Instagram posts, Facebook ads, event flyers, presentation slides, YouTube thumbnails. Aim for clean, modern looks with consistent colors and typography."
+        },
+        {
+          "title": "Create service packages",
+          "desc": "Instead of single designs, offer packages. Example: '10 Instagram posts + 5 Story templates for $50.' Packages have higher perceived value and you earn more per client."
+        },
+        {
+          "title": "List on Fiverr and Upwork",
+          "desc": "Create gigs with clear deliverables and turnaround times. Show portfolio samples. Start with competitive pricing. Respond to buyer requests daily to get early clients."
+        },
+        {
+          "title": "Expand to brand identity",
+          "desc": "Once established, offer full brand packages: logo, color palette, fonts, social templates. These command $200-500 per project and build long-term client relationships."
+        }
+      ],
+      "example": "Lisa started offering Canva-based social media design on Fiverr. Her first package was 5 Instagram posts for $25. She used Canva AI to generate layout ideas and Magic Write for caption drafts. Within 2 months, she was fully booked and raised her package to $75. She now serves 8 monthly retainer clients needing 20+ designs each, earning roughly $1200/month.",
+      "tips": [
+        "Create reusable templates - they save hours per client",
+        "Ask clients for brand guidelines upfront to avoid redesigns",
+        "Follow design trends on Behance and Dribbble to keep work fresh"
+      ]
+    },
+    {
+      "id": "ai-resume-writing",
+      "category": "freelancing",
+      "title": "AI Resume & Career Services",
+      "icon": "📝",
+      "tools": [
+        "ChatGPT",
+        "Claude",
+        "Grammarly",
+        "Kickresume"
+      ],
+      "platforms": [
+        "Fiverr",
+        "Upwork",
+        "LinkedIn Services"
+      ],
+      "summary": "Rewrite resumes, cover letters, and LinkedIn profiles using AI for ATS keyword matching and professional formatting. Each client takes 30 minutes instead of 3 hours.",
+      "difficulty": "Easy",
+      "url": "https://chat.openai.com",
+      "steps": [
+        {
+          "title": "Understand ATS systems",
+          "desc": "Applicant Tracking Systems scan resumes for keywords before humans see them. Learn ATS-friendly formatting: simple layouts, standard headings, no images. ChatGPT can explain ATS optimization in detail."
+        },
+        {
+          "title": "Build your AI workflow",
+          "desc": "Create a ChatGPT prompt template for resume rewriting: 'Rewrite this resume to highlight achievements, use action verbs, and include keywords for [job title]. Format in ATS-friendly layout.'"
+        },
+        {
+          "title": "Create before/after samples",
+          "desc": "Take a generic resume (anonymized), show the AI-rewritten version. Highlight: stronger action verbs, quantified achievements, better keyword density. This sells the service visually."
+        },
+        {
+          "title": "Launch on Fiverr and LinkedIn",
+          "desc": "Create gigs with tiered pricing: Basic (resume only), Standard (+cover letter), Premium (+LinkedIn optimization). LinkedIn is also great for finding clients directly."
+        },
+        {
+          "title": "Expand to career coaching",
+          "desc": "Add interview prep, salary negotiation scripts, and career transition planning. These command higher prices and build deeper client relationships."
+        }
+      ],
+      "example": "James started on Fiverr charging $30 for a resume rewrite. He used ChatGPT to analyze job descriptions and optimize resumes. His first client landed an interview within 2 weeks and left a glowing review. Within 3 months, James handled 25-30 clients per month at $50-75 each. That's $1500-2000/month from resume writing alone.",
+      "tips": [
+        "Never fabricate experience - enhance what's there, don't invent",
+        "Keep a library of industry-specific keywords for different roles",
+        "Follow up with clients after 2 weeks to ask about interviews and request testimonials"
+      ]
+    },
+    {
+      "id": "ai-photo-editing",
+      "category": "freelancing",
+      "title": "AI Photo Editing & Retouching",
+      "icon": "📸",
+      "tools": [
+        "Adobe Firefly",
+        "Canva",
+        "Remove.bg",
+        "Photoroom"
+      ],
+      "platforms": [
+        "Fiverr",
+        "Upwork",
+        "Pixieset"
+      ],
+      "summary": "Remove backgrounds, enhance photos, color-correct using AI tools. Offer bulk editing for e-commerce, real estate, and portrait photography.",
+      "difficulty": "Easy",
+      "url": "https://www.remove.bg",
+      "steps": [
+        {
+          "title": "Learn the tools",
+          "desc": "Remove.bg does instant background removal. Photoroom specializes in product photos with AI backgrounds. Canva and Adobe Firefly handle creative editing like object removal and style transfer."
+        },
+        {
+          "title": "Practice on real photos",
+          "desc": "Download free stock photos and practice: remove backgrounds from 20 product photos, enhance 10 low-light photos, retouch 5 portraits. Time yourself - speed without sacrificing quality is the goal."
+        },
+        {
+          "title": "Pick a niche",
+          "desc": "E-commerce product photo editing is the largest market. Real estate photo enhancement is another lucrative niche. Portrait retouching is a third option. Pick one and specialize."
+        },
+        {
+          "title": "Create service packages",
+          "desc": "Offer tiered packages: '50 product photos - background removal and color correction for $30.' Bulk pricing attracts serious, high-volume clients."
+        },
+        {
+          "title": "List on Fiverr and Upwork",
+          "desc": "Create gigs with clear before/after examples. Highlight turnaround time - speed is the main selling point for AI-assisted editing. Quick response to messages builds trust."
+        }
+      ],
+      "example": "Maria focused on e-commerce photo editing. She offered '100 product photos edited in 24 hours' for $40 on Fiverr. Using Remove.bg and Canva, she completed batches in 2-3 hours. Within 6 months, she had 10 regular e-commerce clients sending weekly batches of 50-200 photos. Monthly income from this service: $600-800.",
+      "tips": [
+        "Always ask for preferred background color/style upfront",
+        "Batch-process similar photos together - much faster than individual editing",
+        "Keep original files - clients sometimes request different settings later"
+      ]
+    },
+    {
+      "id": "ai-web-design",
+      "category": "freelancing",
+      "title": "AI-Assisted Web Design",
+      "icon": "🌍",
+      "tools": [
+        "v0.dev",
+        "Bolt.new",
+        "Figma AI",
+        "Lovable"
+      ],
+      "platforms": [
+        "Fiverr",
+        "Upwork",
+        "Contra"
+      ],
+      "summary": "Design and prototype websites using AI tools that generate code from prompts. Build landing pages, portfolios, and small business sites faster than traditional web design.",
+      "difficulty": "Medium",
+      "url": "https://v0.dev",
+      "steps": [
+        {
+          "title": "Learn the AI builders",
+          "desc": "v0.dev and Bolt.new turn text descriptions into working websites. Type 'build a landing page for a coffee shop' and get a complete page. Spend a week experimenting with each tool."
+        },
+        {
+          "title": "Build a portfolio",
+          "desc": "Create 5 sample sites: a restaurant landing page, a portfolio, a SaaS product page, an event site, and a small business site. Host on free platforms or take screenshots."
+        },
+        {
+          "title": "Offer website packages",
+          "desc": "Most small businesses need: a 1-page landing site, a 3-page business site, or a simple portfolio. Create fixed-price packages with basic SEO and mobile optimization included."
+        },
+        {
+          "title": "Find local business clients",
+          "desc": "Search local directories for businesses with outdated or no websites. Send a friendly message with a quick mockup of how their site could look. Offer competitive pricing for first clients."
+        },
+        {
+          "title": "Add maintenance revenue",
+          "desc": "Offer hosting setup, domain connection, and monthly updates. Many owners don't want to manage their own sites. $50/month for 10 clients = $500 monthly recurring revenue."
+        }
+      ],
+      "example": "Alex used v0.dev to build websites for local businesses. His first client was a bakery with no website - just a Facebook page. He built a 3-page site with menu, location, and contact form in 4 hours using AI. He charged $300 for the site and $40/month for hosting/updates. The bakery referred 4 other businesses to Alex. Monthly income: $300-600 in projects + $200 in maintenance fees.",
+      "tips": [
+        "Always test websites on mobile before delivering - 60%+ traffic is mobile",
+        "Use AI for placeholder content, replace with real client text before delivery",
+        "Learn basic HTML/CSS so you can fix small issues AI tools miss"
+      ]
+    },
+    {
+      "id": "ai-presentation-design",
+      "category": "freelancing",
+      "title": "AI Presentation Design",
+      "icon": "📊",
+      "tools": [
+        "Gamma",
+        "Beautiful.ai",
+        "Tome",
+        "Canva"
+      ],
+      "platforms": [
+        "Fiverr",
+        "Upwork",
+        "Behance"
+      ],
+      "summary": "Build professional pitch decks, investor presentations, and sales decks with AI tools. Turn rough notes into polished slides in minutes instead of hours.",
+      "difficulty": "Easy",
+      "url": "https://gamma.app",
+      "steps": [
+        {
+          "title": "Master Gamma and Beautiful.ai",
+          "desc": "Gamma turns text outlines into presentations with AI layouts. Beautiful.ai enforces design rules so every slide looks professional. Both have free tiers. Create 5 practice presentations to learn the tools."
+        },
+        {
+          "title": "Understand presentation structure",
+          "desc": "Good presentations follow: problem → solution → benefits → proof → call to action. Learn to structure content this way. AI generates slides - you provide the strategic structure."
+        },
+        {
+          "title": "Build niche expertise",
+          "desc": "Specialize: startup pitch decks (fundraising), sales decks (B2B), or corporate presentations (internal use). Each has different conventions. Specialization commands premium pricing."
+        },
+        {
+          "title": "Create sample decks",
+          "desc": "Build 3 samples: a startup pitch deck for a fictional company, a sales presentation for a SaaS product, a corporate quarterly review. Make them look real with real data and polished visuals."
+        },
+        {
+          "title": "Launch on Fiverr",
+          "desc": "List packages: 'I will design a pitch deck' with 24-48 hour turnaround. Include deliverables (PDF + editable file). Start at $40-60 per deck. Raise prices as reviews accumulate."
+        }
+      ],
+      "example": "Nina specialized in startup pitch decks. She used Gamma to generate slides from founder notes, then polished the narrative and visuals. Her first client was a pre-seed startup preparing for investor meetings. She charged $150 for a 12-slide deck delivered in 48 hours. The startup raised funding and referred 3 other founders. Nina now charges $300-500 per deck and completes 4-6 per month.",
+      "tips": [
+        "Always ask for audience and goal before starting",
+        "Use consistent fonts and colors throughout - AI sometimes mixes styles",
+        "Provide the raw file so clients can edit themselves later"
+      ]
+    },
+    {
+      "id": "ai-ux-writing",
+      "category": "freelancing",
+      "title": "AI UX & Microcopy Writing",
+      "icon": "🖱️",
+      "tools": [
+        "ChatGPT",
+        "Claude",
+        "Grammarly",
+        "Figma AI"
+      ],
+      "platforms": [
+        "Upwork",
+        "Fiverr",
+        "Toptal",
+        "Dribbble"
+      ],
+      "summary": "Write button labels, error messages, onboarding flows, and tooltips for apps. UX writers are increasingly in demand as more products launch globally.",
+      "difficulty": "Medium",
+      "url": "https://chat.openai.com",
+      "steps": [
+        {
+          "title": "Learn UX writing principles",
+          "desc": "UX writing = clarity, brevity, usefulness. Every word on a screen should help the user. Study examples from Apple, Google, Stripe. Notice how their buttons, errors, and empty states are written."
+        },
+        {
+          "title": "Practice with AI",
+          "desc": "Give ChatGPT a screen description: 'Write the error message for invalid email on signup. Make it helpful, not scary.' Iterate until the copy feels human and natural."
+        },
+        {
+          "title": "Build a portfolio",
+          "desc": "Take screenshots of apps with poor UX writing, redesign the copy, show before/after. Post on Dribbble or a simple portfolio page. These case studies demonstrate your thinking process."
+        },
+        {
+          "title": "Find clients on Upwork",
+          "desc": "Search for 'UX writer' or 'microcopy' jobs. Many startups need UX writers but can't afford full-time hires. Start with smaller projects to build reviews."
+        },
+        {
+          "title": "Pair with design services",
+          "desc": "Offer UX writing as an add-on to web or app design projects. Being the person who can design AND write is a strong competitive advantage in freelancing."
+        }
+      ],
+      "example": "Ravi started as a web designer and added UX writing. A SaaS client needed help with their onboarding flow - users were dropping off at signup. Ravi redesigned the flow and rewrote all microcopy (buttons, helper text, success messages). Signup completion improved significantly. The client paid $800 for the project. Ravi now positions himself as a 'UX designer + writer' and charges premium rates.",
+      "tips": [
+        "Test copy with real users - what seems clear to you may confuse others",
+        "Keep a swipe file of great UX writing examples",
+        "UX writing rates are higher than general copywriting - don't underprice"
+      ]
+    },
+    {
+      "id": "ai-3d-models",
+      "category": "digital-products",
+      "title": "Sell AI-Generated 3D Models",
+      "icon": "🧊",
+      "tools": [
+        "Meshy",
+        "Luma AI",
+        "Spline AI",
+        "Blender (AI plugins)"
+      ],
+      "platforms": [
+        "Sketchfab",
+        "CGTrader",
+        "TurboSquid",
+        "Unity Asset Store"
+      ],
+      "summary": "Create 3D assets for games, AR/VR, and product visualization. AI tools turn text or photos into textured 3D models. Growing demand from indie game devs and metaverse projects.",
+      "difficulty": "Medium",
+      "url": "https://www.meshy.ai",
+      "steps": [
+        {
+          "title": "Learn an AI 3D tool",
+          "desc": "Meshy turns text descriptions or 2D images into 3D models in minutes. Luma AI creates 3D from phone photos. Start with Meshy's free tier - upload a reference image and see the result."
+        },
+        {
+          "title": "Understand 3D formats",
+          "desc": "Learn the basics: .fbx and .obj are universal formats for game engines. .glb is used for web AR. Different marketplaces prefer different formats. Know which to export."
+        },
+        {
+          "title": "Build a model library",
+          "desc": "Create 20-30 models in a consistent style: furniture, props, characters, or environments. Consistency builds a recognizable brand on marketplaces. Focus on one category at first."
+        },
+        {
+          "title": "Upload to marketplaces",
+          "desc": "Sketchfab is the largest 3D marketplace. CGTrader and TurboSquid also have large audiences. Set competitive prices ($5-15 for basic models, $20-50 for detailed ones). Each model can sell multiple times."
+        },
+        {
+          "title": "Optimize for game engines",
+          "desc": "Most buyers use Unity or Unreal Engine. Make sure your models have clean topology and reasonable polygon counts. Include a 'game-ready' tag in your listings for better visibility."
+        }
+      ],
+      "example": "Ken started creating 3D furniture models for indie game developers. Using Meshy, he turned reference photos of chairs and tables into game-ready 3D assets. He uploaded 50 models to CGTrader and Sketchfab priced at $5-15 each. Within 3 months, he was selling 30-40 models per month. The beauty of 3D assets: create once, sell forever with zero additional work.",
+      "tips": [
+        "Include multiple file formats in each listing - more formats = more buyers",
+        "Create themed bundles: '10 Fantasy Props' sells better than individual items",
+        "Join game dev Discords and Reddit communities to understand what modelers need"
+      ]
+    },
+    {
+      "id": "print-on-demand-art",
+      "category": "digital-products",
+      "title": "Print-on-Demand AI Art",
+      "icon": "🖼️",
+      "tools": [
+        "Midjourney",
+        "DALL-E",
+        "Leonardo AI",
+        "Stable Diffusion"
+      ],
+      "platforms": [
+        "Etsy",
+        "Redbubble",
+        "Society6",
+        "Printify"
+      ],
+      "summary": "Generate artwork and designs with AI, sell them on t-shirts, posters, mugs, phone cases via print-on-demand. No inventory, no shipping - the platform handles everything.",
+      "difficulty": "Easy",
+      "url": "https://www.midjourney.com",
+      "steps": [
+        {
+          "title": "Learn AI image generation",
+          "desc": "Midjourney ($10/mo) is the quality leader for artistic images. DALL-E is easier for beginners. Learn to write effective prompts: describe subject, style, lighting, and composition. Practice generating 50+ images to understand what works."
+        },
+        {
+          "title": "Research trending designs",
+          "desc": "Browse Etsy and Redbubble bestsellers in your target category. Note popular themes: motivational quotes, nature scenes, abstract patterns, niche hobbies. Don't copy - identify trends to inspire your own unique designs."
+        },
+        {
+          "title": "Create a design collection",
+          "desc": "Generate 20-30 designs in a consistent theme. Example: 'minimalist nature posters' or 'retro sci-fi t-shirt designs.' Consistency helps build a recognizable shop brand."
+        },
+        {
+          "title": "Set up print-on-demand accounts",
+          "desc": "Redbubble is easiest - upload designs and they handle printing, shipping, and customer service. Society6 and Printify are alternatives. Upload your designs to multiple platforms for maximum reach."
+        },
+        {
+          "title": "Optimize listings",
+          "desc": "Use descriptive titles with keywords buyers search: 'Minimalist mountain poster, nature wall art, boho decor.' Add relevant tags. Set competitive markup ($5-10 per item). Refresh designs monthly based on what's selling."
+        }
+      ],
+      "example": "Emma started with 25 minimalist nature designs on Redbubble. She used Midjourney to create varied mountain, forest, and ocean scenes. Her first month: 3 sales ($15 profit). By month 4, after adding 75 total designs, she was making $200-300/month passively. Her bestselling design: a simple starry night print that sold 40+ times across posters, stickers, and phone cases. She now adds 10 new designs weekly.",
+      "tips": [
+        "Check that your AI tool's license allows commercial use - most do for paid plans",
+        "Create designs in multiple aspect ratios to fit different products",
+        "Seasonal designs (Christmas, Halloween) sell well during their specific windows"
+      ]
+    },
+    {
+      "id": "sell-ai-templates",
+      "category": "digital-products",
+      "title": "Sell AI-Generated Templates",
+      "icon": "📋",
+      "tools": [
+        "Canva",
+        "ChatGPT",
+        "Notion AI",
+        "Gamma"
+      ],
+      "platforms": [
+        "Etsy",
+        "Creative Market",
+        "Gumroad",
+        "Notion Marketplace"
+      ],
+      "summary": "Create and sell templates: Notion dashboards, Canva designs, Google Sheets trackers, presentation decks. Build once, sell forever.",
+      "difficulty": "Easy",
+      "url": "https://www.canva.com",
+      "steps": [
+        {
+          "title": "Pick your template niche",
+          "desc": "Popular template categories: Notion workspace templates (productivity, journaling, project management), Canva Instagram templates, Google Sheets budget trackers, presentation decks, and resume templates. Pick one category to master first."
+        },
+        {
+          "title": "Design 5-10 initial templates",
+          "desc": "Use Canva AI to generate layout ideas, ChatGPT to write placeholder text. Each template should solve a specific problem: 'Weekly Meal Planner Template' is better than 'Notion Template.' Be specific."
+        },
+        {
+          "title": "Create professional previews",
+          "desc": "Etsy buyers decide based on listing images. Create 5-7 preview images per template showing different views, features, and customization options. Use mockups showing the template on a laptop or phone screen."
+        },
+        {
+          "title": "List on Etsy and Creative Market",
+          "desc": "Etsy charges $0.20/listing. Write detailed descriptions: what's included, file formats, how to use, compatibility (e.g., 'Requires Canva Free'). Set prices at $3-15 depending on complexity."
+        },
+        {
+          "title": "Build a template shop",
+          "desc": "As templates sell, create variations: different color schemes, different niches. A wedding planner template can become a party planner template with minimal changes. Build a catalog of 50+ templates for steady passive income."
+        }
+      ],
+      "example": "Jake created 15 Notion templates: habit tracker, weekly planner, content calendar, budget tracker, reading list. He listed them on Etsy for $5-8 each and created a bundle for $25. Using ChatGPT to write descriptions and Canva for preview images, he spent about 4 hours per template. Within 2 months, he was selling 60-80 templates per month. His bestseller, a 'Student Dashboard' template, sold over 200 copies at $6 each. Monthly income: $400-600 and growing as he adds more templates weekly.",
+      "tips": [
+        "Include a video tutorial showing how to use the template - reduces customer questions",
+        "Offer a 'starter bundle' with 3-5 templates at a discount to increase average order value",
+        "Update templates regularly and notify past buyers - many will purchase new versions"
+      ]
+    },
+    {
+      "id": "ai-ebook-covers",
+      "category": "digital-products",
+      "title": "AI Book & Ebook Cover Design",
+      "icon": "📚",
+      "tools": [
+        "Midjourney",
+        "DALL-E",
+        "Canva",
+        "Adobe Firefly"
+      ],
+      "platforms": [
+        "Fiverr",
+        "Etsy",
+        "Gumroad",
+        "SelfPubMarket"
+      ],
+      "summary": "Design professional book covers and ebook covers for indie authors. AI generates stunning visuals in minutes. The self-publishing market creates constant demand for covers.",
+      "difficulty": "Easy",
+      "url": "https://www.midjourney.com",
+      "steps": [
+        {
+          "title": "Understand book cover genres",
+          "desc": "Each genre has visual conventions: romance uses couples and warm colors, thriller uses dark tones and tension, fantasy uses epic landscapes. Study bestselling covers on Amazon in 3-4 genres to understand the visual language."
+        },
+        {
+          "title": "Generate cover art with AI",
+          "desc": "Use Midjourney for artistic covers, DALL-E for photorealistic ones. Write genre-specific prompts: 'Romance book cover, couple embracing at sunset, soft lighting, warm colors, title space at top.' Generate variations until you have polished artwork."
+        },
+        {
+          "title": "Add typography in Canva",
+          "desc": "Import AI art into Canva, add book title and author name with appropriate fonts. Serif fonts for literary fiction, bold sans-serif for thrillers, elegant scripts for romance. Typography makes or breaks a cover."
+        },
+        {
+          "title": "Create packages for authors",
+          "desc": "Indie authors need: ebook cover + paperback cover + 3D mockup. Create an all-in-one package. Use Placeit or Canva for 3D book mockups showing the cover on a physical book."
+        },
+        {
+          "title": "List on Fiverr and Etsy",
+          "desc": "Fiverr: 'I will design a professional ebook cover' starting at $25-40. Etsy: sell pre-made covers for $15-30 each. Pre-made covers are great passive income - design once, sell multiple times."
+        }
+      ],
+      "example": "Tara started designing pre-made romance novel covers on Etsy using Midjourney for artwork and Canva for typography. She listed 20 covers at $18 each. Romance authors on a budget snapped them up. Each cover took about 45 minutes to create. Within 3 months, she had sold over 80 covers and was adding 10 new covers weekly. She also started offering custom covers on Fiverr for $50-75. Combined monthly income: $500-800.",
+      "tips": [
+        "Always check that your AI tool's license allows commercial book cover use",
+        "Study Amazon bestseller lists to understand what's selling in each genre",
+        "Pre-made covers sell best when they're genre-specific, not generic"
+      ]
+    },
+    {
+      "id": "ai-logo-design",
+      "category": "digital-products",
+      "title": "AI Logo Design Packs",
+      "icon": "🏷️",
+      "tools": [
+        "Looka",
+        "Brandmark",
+        "Midjourney",
+        "Canva"
+      ],
+      "platforms": [
+        "Fiverr",
+        "Etsy",
+        "Creative Market"
+      ],
+      "summary": "Create logo bundles for startups and small businesses with AI tools. Package multiple variations for quick client turnaround and recurring passive income from pre-made logo packs.",
+      "difficulty": "Easy",
+      "url": "https://looka.com",
+      "steps": [
+        {
+          "title": "Learn AI logo tools",
+          "desc": "Looka and Brandmark generate complete logo concepts from a business name and industry. They provide multiple variations, color palettes, and font pairings. Start with Looka's free preview to understand the output quality."
+        },
+        {
+          "title": "Create pre-made logo packs",
+          "desc": "Design logo packs for specific industries: '10 Minimalist Tech Logos' or '15 Handcrafted Bakery Logos.' Each pack should include color variations, icon-only versions, and text-only versions. Package as a zip file with PNG, SVG, and JPG formats."
+        },
+        {
+          "title": "List on Etsy and Creative Market",
+          "desc": "Pre-made logo packs sell for $12-35 on Etsy. Write detailed descriptions: what's included, file formats, editable source files, commercial license terms. Include preview images showing all logos in the pack."
+        },
+        {
+          "title": "Offer custom logo services",
+          "desc": "On Fiverr, offer custom logo design: 'I will design a modern minimalist logo' with tiered pricing. Basic ($25): 2 concepts. Standard ($50): 5 concepts + revisions. Premium ($100): full brand identity package."
+        },
+        {
+          "title": "Build recurring clients",
+          "desc": "Many small businesses need ongoing design work after the logo: business cards, social media kits, signage. Offer a 'brand continuation' package to logo clients. One logo client can become a $500+/year relationship."
+        }
+      ],
+      "example": "Daniel created logo packs for different industries on Etsy. His '15 Modern Tech Startup Logos' pack sold for $20 and included vector files, color variations, and brand guidelines. He used Looka for initial concepts and polished them in Canva. The pack sold 35 times in 4 months. He now has 8 different industry packs and earns $300-400/month in passive logo pack sales, plus $500-700/month from custom Fiverr orders.",
+      "tips": [
+        "Always include vector files (.SVG, .EPS) - they're essential for professional printing",
+        "Include a simple brand guidelines PDF with each pack explaining how to use the logo",
+        "Avoid using trademarked symbols or names that could cause legal issues for buyers"
+      ]
+    },
+    {
+      "id": "ai-music-samples",
+      "category": "digital-products",
+      "title": "Sell AI Music & Audio Samples",
+      "icon": "🎵",
+      "tools": [
+        "Suno",
+        "Udio",
+        "AIVA",
+        "Soundraw",
+        "Mubert"
+      ],
+      "platforms": [
+        "AudioJungle",
+        "Pond5",
+        "Bandcamp",
+        "BeatStars"
+      ],
+      "summary": "Generate background music, beats, jingles, and sound effects with AI. Sell royalty-free tracks on stock audio platforms. One track can sell dozens of times to different buyers.",
+      "difficulty": "Easy",
+      "url": "https://suno.com",
+      "steps": [
+        {
+          "title": "Learn AI music generation",
+          "desc": "Suno and Udio generate complete songs with vocals from text prompts. AIVA creates instrumental compositions. Soundraw generates royalty-free background music. Try all free tiers to understand which suits your style."
+        },
+        {
+          "title": "Find your music niche",
+          "desc": "Stock music categories: corporate background, cinematic, lo-fi, electronic, acoustic, ambient. Each has different buyers. Corporate and cinematic pay best. Lo-fi and ambient have the most volume."
+        },
+        {
+          "title": "Build a track library",
+          "desc": "Generate 20-30 tracks in your chosen style. Focus on quality over quantity initially. Each track should be 1-3 minutes with clean intro/outro. Export as high-quality WAV and MP3 files."
+        },
+        {
+          "title": "Upload to audio marketplaces",
+          "desc": "AudioJungle and Pond5 are the largest stock audio platforms. Upload tracks with descriptive titles ('Uplifting Corporate Background Music'), relevant tags, and a preview clip. Set prices at $10-30 per standard license."
+        },
+        {
+          "title": "Create themed packs",
+          "desc": "Bundle 5-10 tracks with a common theme: '10 Uplifting Corporate Tracks' or 'Cinematic Trailer Music Pack.' Packs sell for $30-60 and have higher perceived value than individual tracks."
+        }
+      ],
+      "example": "Chris generated 30 corporate background tracks using Soundraw and AIVA. He uploaded them to AudioJungle and Pond5 priced at $15-25 per track. In the first 3 months, he sold 45 licenses. His most popular track, a 2-minute 'Inspiring Technology Background,' sold 12 times across both platforms. He now has 100+ tracks earning $300-500/month in mostly passive income.",
+      "tips": [
+        "Always check licensing terms of AI music tools - most allow commercial use on paid plans",
+        "Include both full tracks and shorter edits/loops for different use cases",
+        "Update your library monthly - platforms favor active creators in search results"
+      ]
+    },
+    {
+      "id": "ai-coloring-books",
+      "category": "digital-products",
+      "title": "AI Coloring Books & Pages",
+      "icon": "🖍️",
+      "tools": [
+        "Midjourney",
+        "DALL-E",
+        "Canva"
+      ],
+      "platforms": [
+        "Amazon KDP",
+        "Etsy",
+        "Gumroad"
+      ],
+      "summary": "Create themed coloring books with AI-generated line art. Upload to Amazon KDP or sell printable PDFs directly. A single book can generate passive income for years.",
+      "difficulty": "Easy",
+      "url": "https://www.midjourney.com",
+      "steps": [
+        {
+          "title": "Generate line art with AI",
+          "desc": "Midjourney is best for coloring book art. Use prompts like 'clean line art, black and white, no shading, simple outlines, [subject] coloring page.' Generate 25-30 pages for a complete book. Each page should have clear outlines and white space for coloring."
+        },
+        {
+          "title": "Choose a profitable theme",
+          "desc": "Bestselling coloring book themes: animals, mandalas, flowers, inspirational quotes, fantasy, cute characters. Niche themes like 'Corgi Coloring Book' or 'Cottagecore Coloring Book' often outperform generic ones."
+        },
+        {
+          "title": "Format your book",
+          "desc": "Use Canva to compile pages into a PDF. Create a simple cover page, a title page, and consistently formatted interior pages. Amazon KDP requires specific trim sizes - 8.5x11 inches is standard for coloring books."
+        },
+        {
+          "title": "Publish on Amazon KDP",
+          "desc": "Amazon KDP is free to publish. Upload your PDF, set a price ($5.99-8.99 for coloring books), and write a keyword-rich description. Amazon prints and ships on demand. You earn 60% royalty minus printing costs."
+        },
+        {
+          "title": "Also sell digital versions",
+          "desc": "List the printable PDF version on Etsy and Gumroad for $3-5. Many buyers prefer digital - they print pages at home. Digital sales have 100% profit margin since there's no printing cost."
+        }
+      ],
+      "example": "Michelle created a 'Cute Animal Mandala Coloring Book' with 30 AI-generated pages. She published it on Amazon KDP and also listed the PDF on Etsy. The paperback sells for $7.99 (earning ~$3/copy), and the PDF sells for $4.99 on Etsy. In 6 months, she sold 200+ paperback copies and 150+ digital copies. Total earnings: roughly $1300 from a single book that took 2 weekends to create. She's now working on her third book.",
+      "tips": [
+        "Always check AI tool licenses for commercial use in published books",
+        "Order a proof copy from Amazon before publishing to check print quality",
+        "Create a series - 'Volume 1, Volume 2' - customers who like volume 1 will buy more"
+      ]
+    },
+    {
+      "id": "ai-social-media-kits",
+      "category": "digital-products",
+      "title": "Social Media Template Kits",
+      "icon": "📱",
+      "tools": [
+        "Canva",
+        "Adobe Firefly",
+        "ChatGPT"
+      ],
+      "platforms": [
+        "Etsy",
+        "Creative Market",
+        "Gumroad"
+      ],
+      "summary": "Bundle Instagram post templates, story templates, and highlight covers with AI-generated designs. Businesses and creators buy these constantly for their social media presence.",
+      "difficulty": "Easy",
+      "url": "https://www.canva.com",
+      "steps": [
+        {
+          "title": "Design template sets",
+          "desc": "A complete social kit includes: 10-15 Instagram post templates, 5-8 Story templates, 3-5 highlight covers, and a color palette guide. Use Canva AI Magic Design to generate layout variations. Keep designs cohesive with consistent fonts and colors."
+        },
+        {
+          "title": "Create niche-specific kits",
+          "desc": "Instead of generic templates, target niches: 'Real Estate Agent Social Kit,' 'Coffee Shop Instagram Bundle,' 'Fitness Coach Template Pack.' Niche templates sell better because they solve a specific problem."
+        },
+        {
+          "title": "Build beautiful preview images",
+          "desc": "Etsy is visual - your listing images determine sales. Create 5-7 preview images showing the templates in use with sample content. Use Canva mockups showing the designs on phone screens."
+        },
+        {
+          "title": "List on multiple platforms",
+          "desc": "Etsy for mass market ($12-25/kit), Creative Market for design-focused buyers ($18-35/kit), Gumroad for direct sales with higher margins. List everywhere to maximize reach."
+        },
+        {
+          "title": "Update seasonally",
+          "desc": "Create holiday editions of your most popular kits. A 'Christmas Edition' of a bestseller can double December sales. Also create 'dark mode' and 'light mode' versions of each kit for more variety."
+        }
+      ],
+      "example": "Hannah created a 'Modern Real Estate Agent Social Media Kit' with 20 Instagram templates, 10 Story templates, and 8 highlight covers. She listed it on Etsy for $22. Using Canva AI for layout ideas and ChatGPT for sample captions in the preview images, she built the kit in one weekend. In 6 months, it sold 180+ times. She now has 12 niche-specific kits and earns $800-1200/month in passive template sales.",
+      "tips": [
+        "Include a PDF tutorial showing exactly how to edit templates in Canva Free",
+        "Offer a 'Mega Bundle' with 3-5 kits at a discount to increase order value",
+        "Check current social media template trends on Etsy before designing new kits"
+      ]
+    },
+    {
+      "id": "ai-stock-photos",
+      "category": "digital-products",
+      "title": "Sell AI Stock Photography",
+      "icon": "📷",
+      "tools": [
+        "Midjourney",
+        "DALL-E",
+        "Adobe Firefly",
+        "Stable Diffusion"
+      ],
+      "platforms": [
+        "Shutterstock",
+        "Adobe Stock",
+        "Freepik",
+        "Pexels"
+      ],
+      "summary": "Generate high-quality stock photos for commercial use. Upload to stock photography marketplaces where one image can sell dozens of times to different buyers worldwide.",
+      "difficulty": "Easy",
+      "url": "https://www.midjourney.com",
+      "steps": [
+        {
+          "title": "Understand stock photo demand",
+          "desc": "Most-needed categories: business/office scenes, lifestyle, food, nature, technology, healthcare, education. Buyers need realistic, well-lit images with copy space. Study top-selling images on Shutterstock to understand what's in demand."
+        },
+        {
+          "title": "Generate photorealistic images",
+          "desc": "Midjourney and DALL-E produce the most realistic stock-style photos. Use prompts like 'Professional stock photo of diverse team in modern office, natural lighting, copy space, 8K resolution.' Avoid stylized or artistic looks - stock buyers want realism."
+        },
+        {
+          "title": "Build a portfolio of 100+ images",
+          "desc": "Upload is the hardest part - most stock sites require an initial portfolio review. Generate 100+ high-quality images across 5-10 categories. Submit to 2-3 platforms. Expect some rejections initially - learn from feedback and resubmit."
+        },
+        {
+          "title": "Upload consistently",
+          "desc": "Adobe Stock and Shutterstock are the largest marketplaces. Upload 10-20 new images weekly. Each accepted image can sell repeatedly for years. Standard licenses pay $0.25-3.00 per download. Extended licenses pay $20-80."
+        },
+        {
+          "title": "Optimize keywords and titles",
+          "desc": "Write descriptive titles: 'Diverse business team collaborating in modern office with natural light.' Add 20-30 relevant keywords per image. Good keywords make the difference between an image selling 0 times or 100 times."
+        }
+      ],
+      "example": "Tom generated 200 business and lifestyle stock photos using Midjourney. After Adobe Stock approved his portfolio, he uploaded 20 images weekly. His first month: 12 downloads ($8). By month 6 with 500+ images live: 150-200 downloads/month ($100-300). His top-selling image, a 'Remote worker with laptop in sunlit cafe,' sold 80+ times. He now has 1200+ images earning $300-500/month passively.",
+      "tips": [
+        "Check each platform's AI content policy - rules vary by marketplace",
+        "Avoid generating images with recognizable logos, brands, or specific people",
+        "Images with copy space (empty areas for text) consistently outsell busy compositions"
+      ]
+    },
+    {
+      "id": "ai-course-creation",
+      "category": "digital-products",
+      "title": "Create & Sell AI-Assisted Courses",
+      "icon": "🎓",
+      "tools": [
+        "ChatGPT",
+        "Claude",
+        "Descript",
+        "Canva"
+      ],
+      "platforms": [
+        "Udemy",
+        "Skillshare",
+        "Teachable",
+        "Gumroad"
+      ],
+      "summary": "Build online courses with AI writing scripts, designing slides, and editing video. Record once, earn from enrollments indefinitely. The EduTech market continues growing.",
+      "difficulty": "Medium",
+      "url": "https://www.udemy.com",
+      "steps": [
+        {
+          "title": "Choose a course topic",
+          "desc": "Pick a practical skill you can teach in 2-4 hours. Popular categories: productivity with AI tools, Canva design for beginners, freelance writing basics, social media marketing 101. The best courses teach a specific, actionable skill."
+        },
+        {
+          "title": "Outline with AI",
+          "desc": "Use ChatGPT to create a structured course outline: 'Create a detailed 10-module course outline for teaching beginners how to use Canva for social media design.' AI generates the curriculum structure in minutes."
+        },
+        {
+          "title": "Script and record",
+          "desc": "Write scripts for each lesson using Claude. Record your screen and voice (or use ElevenLabs for voiceover). Descript edits your recordings by editing text. Keep lessons 5-10 minutes each for best engagement."
+        },
+        {
+          "title": "Design slides and materials",
+          "desc": "Use Canva AI for slide decks and Gamma for presentation flow. Create downloadable worksheets, checklists, and templates as course bonuses. Supplementary materials increase perceived value."
+        },
+        {
+          "title": "Publish on course platforms",
+          "desc": "Udemy has the largest audience but controls pricing. Skillshare pays based on watch time. Teachable and Gumroad let you set your own prices and keep more revenue. List on multiple platforms for maximum reach."
+        }
+      ],
+      "example": "Rachel created a 'Canva for Beginners' course. She used ChatGPT to outline 12 lessons, Claude to write scripts, and Descript to edit her screen recordings. She published on Udemy (enrollment-based revenue) and Gumroad (direct sales at $39). In 6 months: 400+ Udemy enrollments and 150+ Gumroad sales. Total earnings: roughly $2500 from one course that took 3 weekends to create. She's now building her second course.",
+      "tips": [
+        "Record in short segments - easier to re-record if you make a mistake",
+        "Include practical exercises in each module - active learning improves reviews",
+        "Ask for student feedback and update your course regularly to maintain high ratings"
+      ]
+    },
+    {
+      "id": "ai-wedding-design",
+      "category": "digital-products",
+      "title": "AI Wedding & Event Design",
+      "icon": "💍",
+      "tools": [
+        "Canva",
+        "Midjourney",
+        "ChatGPT",
+        "Adobe Firefly"
+      ],
+      "platforms": [
+        "Etsy",
+        "Fiverr",
+        "The Knot Vendor"
+      ],
+      "summary": "Design wedding invitations, seating charts, menus, and signage with AI. The wedding industry spends heavily on custom designs and is always looking for fresh styles.",
+      "difficulty": "Easy",
+      "url": "https://www.canva.com",
+      "steps": [
+        {
+          "title": "Understand wedding design trends",
+          "desc": "Wedding design changes seasonally. Current trends: minimalist typography, watercolor florals, boho aesthetics, elegant gold foil effects. Browse The Knot and Pinterest for current inspiration. Save references for your design library."
+        },
+        {
+          "title": "Create invitation suites",
+          "desc": "A standard suite includes: save-the-date card, main invitation, RSVP card, details card, and envelope liner design. Use Canva AI for layout ideas, Midjourney for floral artwork. Design 5-10 complete suites in different styles."
+        },
+        {
+          "title": "Design day-of stationery",
+          "desc": "Wedding day items: seating chart, table numbers, menu cards, place cards, welcome sign, bar menu, ceremony program. These are often ordered as a bundle. Create coordinated sets where all items match."
+        },
+        {
+          "title": "List on Etsy and The Knot",
+          "desc": "Etsy: list invitation suites ($25-45) and day-of bundles ($35-65). The Knot: join their vendor marketplace for direct client leads. Include customization options - clients want to add their names, dates, colors."
+        },
+        {
+          "title": "Offer customization as a service",
+          "desc": "Many clients want templates customized to their colors and details. Offer a 'customization' add-on for $15-25 per order. This increases order value while being quick work - AI generates variations, you tweak in Canva."
+        }
+      ],
+      "example": "Sophie created 8 wedding invitation suites in different styles: boho, minimalist, romantic, rustic, modern, vintage, tropical, classic. She listed them on Etsy for $28-38 each. Using Canva AI for layout variations and Midjourney for floral elements, each suite took about 2 hours to design. In her first wedding season (May-September), she sold 200+ suites and 80+ day-of bundles. Total revenue: roughly $8000 across 5 months.",
+      "tips": [
+        "Offer editable templates that work with Canva Free - more buyers can use them",
+        "Create mockup photos showing your designs on real tables and invitations",
+        "Seasonal wedding trends change fast - update your shop quarterly"
+      ]
+    },
+    {
+      "id": "ai-blogging",
+      "category": "content-creation",
+      "title": "AI-Powered Blogging",
+      "icon": "📰",
+      "tools": [
+        "ChatGPT",
+        "Claude",
+        "Surfer SEO",
+        "Writesonic"
+      ],
+      "platforms": [
+        "Medium",
+        "Substack",
+        "WordPress",
+        "Ghost"
+      ],
+      "summary": "Write SEO-optimized blog posts faster with AI. Research topics, generate outlines, draft content, and optimize for search engines. Monetize with ads, affiliates, and subscriptions.",
+      "difficulty": "Medium",
+      "url": "https://chat.openai.com",
+      "steps": [
+        {
+          "title": "Choose your blog niche",
+          "desc": "Pick a topic you're genuinely interested in. AI can write about anything, but readers can tell when content lacks authentic interest. Tech, personal finance, travel, food, and productivity are popular and monetizable niches."
+        },
+        {
+          "title": "Set up your AI writing workflow",
+          "desc": "Use ChatGPT or Claude for: topic research (what to write about), outline generation (structure), first draft, and SEO optimization (keywords, meta descriptions). Always review and add personal experience to AI drafts."
+        },
+        {
+          "title": "Write consistently",
+          "desc": "Publish 2-3 posts per week minimum. Consistency matters more than perfection. Use AI to draft quickly, then spend 30 minutes per post adding personal insights, examples, and your unique voice."
+        },
+        {
+          "title": "Optimize for SEO",
+          "desc": "Use Surfer SEO or Writesonic to optimize posts for search engines. Target long-tail keywords with lower competition: 'best AI tools for freelance writers' instead of 'AI tools.' Include internal links between related posts."
+        },
+        {
+          "title": "Monetize your blog",
+          "desc": "Apply for Google AdSense after 20-30 quality posts. Join affiliate programs (Amazon Associates, ShareASale). Build an email list and offer premium content through Substack or Ghost memberships. Multiple revenue streams compound over time."
+        }
+      ],
+      "example": "Mark started a productivity blog using AI writing tools. He published 3 posts weekly for 3 months, using ChatGPT to draft and adding his own tips and experiences. By month 4, Google started ranking his posts. He applied for AdSense and got approved at 35 posts. By month 8, he was getting 15,000 monthly visitors, earning $400-600/month from ads and $200-300/month from affiliate links. His top post, '10 AI Tools That Save Me 10 Hours Every Week,' drives 30% of his traffic.",
+      "tips": [
+        "Always fact-check AI-generated content - AI sometimes invents statistics and facts",
+        "Add personal stories and examples - they're what make readers come back",
+        "Build an email list from day one - it's your most valuable asset as a blogger"
+      ]
+    },
+    {
+      "id": "ai-youtube",
+      "category": "content-creation",
+      "title": "AI YouTube Channel",
+      "icon": "▶️",
+      "tools": [
+        "ChatGPT (scripts)",
+        "HeyGen (avatars)",
+        "Descript (editing)",
+        "Fliki (voice)"
+      ],
+      "platforms": [
+        "YouTube",
+        "YouTube Shorts"
+      ],
+      "summary": "Create educational or entertainment videos using AI for scripts, voiceovers, and editing. Monetize through YouTube Partner Program, sponsorships, and affiliate links.",
+      "difficulty": "Medium",
+      "url": "https://www.youtube.com",
+      "steps": [
+        {
+          "title": "Pick your channel format",
+          "desc": "Popular AI-assisted formats: educational explainers (AI scripts + stock footage), faceless documentary style (AI voiceover + stock clips), AI avatar presenter (HeyGen/Synthesia avatar reads your script), and tutorial screen recordings. Pick one format and stick with it."
+        },
+        {
+          "title": "Build your production pipeline",
+          "desc": "Use ChatGPT for topic research and script writing. Claude for polishing scripts. ElevenLabs for voiceover or HeyGen for AI avatar. Descript or CapCut for editing and captions. Create a repeatable process so you can publish consistently."
+        },
+        {
+          "title": "Create 10 videos before launching",
+          "desc": "Don't publish one video and wait. Film, edit, and upload 10 videos as a batch. YouTube's algorithm favors channels that upload consistently from the start. Schedule them to publish 2x/week."
+        },
+        {
+          "title": "Optimize for YouTube search",
+          "desc": "Use AI to generate keyword-rich titles: 'How to [Do Something] in 2026 (Step by Step).' Write detailed descriptions with timestamps. Design clickable thumbnails with Canva. Tags and playlists help discovery."
+        },
+        {
+          "title": "Monetize your channel",
+          "desc": "YouTube Partner Program requires 1000 subscribers and 4000 watch hours. Until then: affiliate links in descriptions, sponsored content deals, and directing viewers to other platforms (Substack, Gumroad). Most channels take 6-12 months to reach monetization."
+        }
+      ],
+      "example": "Alex started a faceless documentary channel about tech history. He used ChatGPT for research and scripts, ElevenLabs for narration, and stock footage with CapCut editing. He uploaded 2 videos/week for 4 months. At 1200 subscribers, he joined YouTube Partner Program. At 5000 subscribers (month 8), he was earning $300-500/month from ads plus $200/month from affiliate links for the tools mentioned in his videos.",
+      "tips": [
+        "Thumbnails matter more than you think - spend 30% of your time on this",
+        "The first 30 seconds determine if viewers stay - hook them immediately",
+        "Reply to every comment in the first 24 hours - it signals engagement to YouTube"
+      ]
+    },
+    {
+      "id": "ai-tiktok-shorts",
+      "category": "content-creation",
+      "title": "AI Short-Form Video Content",
+      "icon": "⚡",
+      "tools": [
+        "CapCut",
+        "Opus Clip",
+        "Pika",
+        "ChatGPT"
+      ],
+      "platforms": [
+        "TikTok",
+        "YouTube Shorts",
+        "Instagram Reels"
+      ],
+      "summary": "Produce short-form videos at scale using AI for captions, effects, and clip generation. Build a following fast with consistent, high-quality shorts across all platforms.",
+      "difficulty": "Easy",
+      "url": "https://www.capcut.com",
+      "steps": [
+        {
+          "title": "Choose your content style",
+          "desc": "Popular short-form formats: faceless list videos ('5 AI tools you need'), text-on-screen storytelling, AI-generated visuals with voiceover, and clip highlights from longer content. Pick one style and master it before expanding."
+        },
+        {
+          "title": "Set up your production workflow",
+          "desc": "Use ChatGPT for script hooks and captions. CapCut for editing with auto-captions. Opus Clip to turn long videos into shorts automatically. Pika for AI-generated video clips. The goal is to produce a short in 15-20 minutes."
+        },
+        {
+          "title": "Post consistently",
+          "desc": "Short-form platforms reward volume. Post 1-2 times daily across TikTok, YouTube Shorts, and Instagram Reels. Use scheduling tools to batch-create content on weekends and auto-post through the week."
+        },
+        {
+          "title": "Use trending sounds and formats",
+          "desc": "Short-form success depends on riding trends. Check trending sounds and hashtags daily. AI can help adapt trending formats to your niche: 'Rewrite this trending script format for [your topic].' Speed of adaptation matters most."
+        },
+        {
+          "title": "Monetize through multiple channels",
+          "desc": "TikTok Creator Fund, YouTube Shorts ad revenue, brand sponsorships, affiliate links in bio, and directing followers to longer content or products. Most short-form creators combine multiple revenue streams."
+        }
+      ],
+      "example": "Jordan started a tech tips account posting 1-minute 'AI tools you should know' videos. Using CapCut for captions and effects, and ChatGPT for hooks, he posted 1-2 videos daily across TikTok, Shorts, and Reels. After 3 months: 50K TikTok followers, 20K YouTube subscribers. He earns from TikTok Creator Fund ($100-200/month), YouTube Shorts ads ($150-300/month), and affiliate tool links ($200-400/month). His best video, '3 Free AI Tools Better Than ChatGPT,' got 2M+ views.",
+      "tips": [
+        "Hook viewers in the first 1-2 seconds - if they scroll past, nothing else matters",
+        "Repurpose successful content: a viral TikTok can become a YouTube Short and Reel",
+        "Respond to comments with follow-up videos - it algorithmically boosts your content"
+      ]
+    },
+    {
+      "id": "ai-newsletter",
+      "category": "content-creation",
+      "title": "AI-Powered Newsletter",
+      "icon": "📧",
+      "tools": [
+        "ChatGPT",
+        "Claude",
+        "Beehiiv",
+        "ConvertKit"
+      ],
+      "platforms": [
+        "Substack",
+        "Beehiiv",
+        "ConvertKit",
+        "Ghost"
+      ],
+      "summary": "Curate and write newsletters with AI summarizing industry news, generating insights, and drafting content. Build a paid subscriber base over time.",
+      "difficulty": "Medium",
+      "url": "https://www.beehiiv.com",
+      "steps": [
+        {
+          "title": "Define your newsletter niche",
+          "desc": "Successful newsletters serve a specific audience: AI tools for marketers, weekly tech news for founders, productivity tips for freelancers. The more specific, the more loyal your subscribers. Pick a topic you can write about weekly for years."
+        },
+        {
+          "title": "Set up your tech stack",
+          "desc": "Beehiiv and Substack are the top newsletter platforms - they handle email delivery, landing pages, and subscriptions. Use ChatGPT to summarize articles and draft content. Claude for long-form analysis pieces."
+        },
+        {
+          "title": "Build your subscriber list",
+          "desc": "Start with a free newsletter to build an audience. Promote on social media, cross-promote with other newsletters, offer a free lead magnet ('Top 10 AI Tools Checklist'). Aim for 100 subscribers before launching paid tiers."
+        },
+        {
+          "title": "Create a content calendar",
+          "desc": "Plan 4 weeks of content ahead. Use AI for topic research and initial drafts. Mix content types: curated link roundups, deep-dive analysis, how-to guides, and subscriber Q&A. Consistency (same day, same time) builds reading habits."
+        },
+        {
+          "title": "Launch paid subscriptions",
+          "desc": "Once you have 500+ free subscribers and consistent open rates, introduce a paid tier ($5-10/month). Offer exclusive content, early access, or community access. ConvertKit and Beehiiv have built-in paid subscription features."
+        }
+      ],
+      "example": "Priya started 'The AI Marketer' newsletter on Beehiiv. She used ChatGPT to summarize 5 AI marketing news stories weekly and Claude to write one deep-dive analysis piece. She posted on LinkedIn and Twitter to attract subscribers. After 4 months: 800 free subscribers and 45% open rate. She launched a $8/month paid tier with exclusive case studies. By month 8: 1200 free, 90 paid subscribers. Monthly revenue: $720 from subscriptions + $200 from sponsorships = $920/month from one weekly email.",
+      "tips": [
+        "Your subject line determines your open rate - spend 20% of your time on it",
+        "Clean your email list monthly - remove inactive subscribers to maintain deliverability",
+        "Cross-promote with newsletters in adjacent niches to grow subscribers faster"
+      ]
+    },
+    {
+      "id": "ai-podcast",
+      "category": "content-creation",
+      "title": "AI Podcast Production",
+      "icon": "🎙️",
+      "tools": [
+        "Descript",
+        "ElevenLabs",
+        "ChatGPT",
+        "NotebookLM"
+      ],
+      "platforms": [
+        "Spotify for Podcasters",
+        "Apple Podcasts",
+        "Buzzsprout"
+      ],
+      "summary": "Generate podcast scripts, use AI voices or enhance your own recordings, and distribute across all platforms. Monetize with sponsorships and listener support.",
+      "difficulty": "Medium",
+      "url": "https://www.descript.com",
+      "steps": [
+        {
+          "title": "Define your show concept",
+          "desc": "Pick a specific topic and format. Options: solo show (you + AI research), interview show (you + guests), AI-narrated show (fully AI voice), or panel discussion. The more focused the topic, the easier to build a loyal audience."
+        },
+        {
+          "title": "Set up your production pipeline",
+          "desc": "Use ChatGPT for episode research and show notes. Claude for scripting. Record raw audio, then use Descript to edit by text - cut filler words, remove pauses, and add intro/outro music automatically. ElevenLabs for AI voice if needed."
+        },
+        {
+          "title": "Record and edit efficiently",
+          "desc": "Descript is the game-changer - it transcribes your recording and lets you edit by deleting text. Filler word removal is automatic. Studio Sound enhances audio quality with one click. What used to take 3 hours now takes 45 minutes."
+        },
+        {
+          "title": "Distribute everywhere",
+          "desc": "Use Buzzsprout, Anchor (Spotify), or Transistor to distribute to all platforms at once: Spotify, Apple Podcasts, Google Podcasts, Amazon Music. One upload reaches all platforms. Schedule episodes consistently (weekly is standard)."
+        },
+        {
+          "title": "Monetize your podcast",
+          "desc": "Sponsorships start at 1000+ downloads per episode. Affiliate marketing works from day one. Listener support through Patreon or Buy Me a Coffee. Premium content (bonus episodes, ad-free feed) through Apple Podcasts Subscriptions."
+        }
+      ],
+      "example": "Kevin started a weekly tech podcast using AI for research and editing. He recorded raw episodes (45 min), used Descript to edit to 25 min with filler removal and sound enhancement, and published on all platforms. After 6 months of consistent weekly episodes, he reached 2000 downloads per episode. He landed 2 sponsors at $15 CPM ($30/episode each). Monthly income: $240 from sponsorships + $80 from affiliate links + $50 from listener donations = $370/month from a weekly 2-hour commitment.",
+      "tips": [
+        "Your first 10 episodes will be your worst - publish them anyway and improve",
+        "Show notes with timestamps help both listeners and SEO",
+        "Promote each episode across all your social channels on release day"
+      ]
+    },
+    {
+      "id": "ai-faceless-channel",
+      "category": "content-creation",
+      "title": "Faceless AI Content Channel",
+      "icon": "🎞️",
+      "tools": [
+        "HeyGen",
+        "Synthesia",
+        "Runway",
+        "CapCut"
+      ],
+      "platforms": [
+        "YouTube",
+        "TikTok",
+        "Instagram"
+      ],
+      "summary": "Build content channels without showing your face using AI avatars, AI voiceovers, and automated editing. All the benefits of being a creator with complete privacy.",
+      "difficulty": "Medium",
+      "url": "https://www.heygen.com",
+      "steps": [
+        {
+          "title": "Choose your channel concept",
+          "desc": "Faceless channels work best for: educational content, news summaries, storytelling, product reviews, and list videos. The key is that the value comes from the information, not a personality. Pick a topic where facts matter more than charisma."
+        },
+        {
+          "title": "Create your AI presenter",
+          "desc": "HeyGen and Synthesia create realistic AI avatars that speak your script. Choose an avatar, write your script in ChatGPT, paste it into HeyGen, and the avatar delivers it with natural lip-sync. Record 30-60 second clips for each segment."
+        },
+        {
+          "title": "Build your video template",
+          "desc": "Create a reusable template: intro animation, AI presenter segment, B-roll footage with voiceover, text overlay section, and outro. Having a template means each video follows the same proven structure and is faster to produce."
+        },
+        {
+          "title": "Automate your workflow",
+          "desc": "Batch-write 4 scripts with ChatGPT. Generate all avatar clips in HeyGen. Edit everything in CapCut with template presets. A 10-minute video that used to take 8 hours to produce can be done in 2 hours with a solid AI pipeline."
+        },
+        {
+          "title": "Scale across platforms",
+          "desc": "Once you have a video, create short clips for TikTok, Shorts, and Reels using Opus Clip. Turn scripts into blog posts for SEO. Turn audio into podcast episodes. One piece of content becomes 5 pieces of content."
+        }
+      ],
+      "example": "Derek runs a faceless tech news channel with an AI avatar presenter. He writes scripts with ChatGPT, generates avatar clips in HeyGen, and edits in CapCut. He publishes two 8-minute videos per week. After 6 months: 8000 YouTube subscribers, 25K TikTok followers. He monetizes through YouTube ads ($200-400/month), affiliate links for products mentioned, and sponsored segments. His 'Top 5 AI Tools This Week' series consistently gets 10K+ views per episode.",
+      "tips": [
+        "Use a consistent AI avatar - viewers build familiarity with the same 'face'",
+        "Keep avatar segments short (30-60 sec) and mix with B-roll for visual variety",
+        "Always disclose AI avatar use in your channel description - transparency builds trust"
+      ]
+    },
+    {
+      "id": "ai-childrens-content",
+      "category": "content-creation",
+      "title": "AI Children's Content Channel",
+      "icon": "🧒",
+      "tools": [
+        "ChatGPT",
+        "Midjourney",
+        "ElevenLabs",
+        "CapCut"
+      ],
+      "platforms": [
+        "YouTube Kids",
+        "Amazon Kids+",
+        "Spotify"
+      ],
+      "summary": "Create educational or story content for children using AI for scripts, illustrations, and narration. Children's content is one of the highest-demand categories on YouTube.",
+      "difficulty": "Medium",
+      "url": "https://www.youtube.com",
+      "steps": [
+        {
+          "title": "Choose your content type",
+          "desc": "Children's content categories: animated storytime (AI illustrations + narration), educational videos (ABCs, numbers, science), nursery rhymes with AI music, bedtime stories, and craft tutorials. Pick one category and master it."
+        },
+        {
+          "title": "Generate scripts and stories",
+          "desc": "Use ChatGPT: 'Write a 5-minute bedtime story about a friendly dragon learning to share, appropriate for ages 4-7.' Claude is better for longer narrative stories. Keep language simple, positive, and age-appropriate."
+        },
+        {
+          "title": "Create visuals and audio",
+          "desc": "Midjourney generates colorful, child-friendly illustrations. ElevenLabs creates warm, engaging narration. DALL-E is good for consistent character design. Generate 15-20 illustrations per story for a visually rich video."
+        },
+        {
+          "title": "Edit and publish",
+          "desc": "Assemble illustrations, narration, and background music in CapCut. Add simple animations (zoom in/out, pan). Include text on screen for early readers. Upload consistently - children's content has high re-watch rates, building watch time fast."
+        },
+        {
+          "title": "Monetize children's content",
+          "desc": "YouTube Kids monetizes through ads (lower CPM but higher volume). Merchandising (plushies, books) for popular characters. Audio versions on Spotify. Printable activity sheets on Etsy. Multiple revenue streams from one content universe."
+        }
+      ],
+      "example": "Lena creates AI bedtime story videos for preschoolers. She writes stories with ChatGPT, generates 20 illustrations per story with Midjourney, narrates with ElevenLabs, and edits in CapCut. Each 8-minute video takes about 4 hours to produce. She publishes 2 videos per week. After 8 months: 25K YouTube subscribers, 500K+ monthly views. YouTube ad revenue: $600-900/month. She also sells printable coloring books of her characters on Etsy for an additional $200-300/month.",
+      "tips": [
+        "Children's content has strict COPPA compliance rules - mark all videos as 'Made for Kids'",
+        "Parents appreciate educational value - add simple learning elements to every video",
+        "Children re-watch favorites repeatedly - focus on quality over quantity"
+      ]
+    },
+    {
+      "id": "ai-chatbot-dev",
+      "category": "ai-services",
+      "title": "AI Chatbot Setup Service",
+      "icon": "💬",
+      "tools": [
+        "ChatGPT API",
+        "Claude API",
+        "Voiceflow",
+        "Botpress"
+      ],
+      "platforms": [
+        "Upwork",
+        "Fiverr",
+        "Toptal"
+      ],
+      "summary": "Build and deploy AI-powered chatbots for small businesses handling customer service, bookings, and FAQs. Recurring maintenance creates ongoing revenue.",
+      "difficulty": "Medium",
+      "url": "https://www.voiceflow.com",
+      "steps": [
+        {
+          "title": "Learn a no-code chatbot platform",
+          "desc": "Voiceflow and Botpress are drag-and-drop chatbot builders connected to ChatGPT/Claude APIs. Start with Voiceflow's free plan - it has templates for FAQ bots, booking assistants, and lead qualifiers."
+        },
+        {
+          "title": "Build a demo chatbot",
+          "desc": "Create a demo for a fictional restaurant: handles table bookings, answers menu questions, takes reservation details. Record a screen video showing the bot handling different conversation paths. This is your sales demo."
+        },
+        {
+          "title": "Understand client needs",
+          "desc": "Most small businesses want: 24/7 FAQ answering, appointment booking, lead qualification, basic support. Learn to scope these into conversation flows. Start narrow - a bot that does one thing well is better than a bot that does five things poorly."
+        },
+        {
+          "title": "Find local business clients",
+          "desc": "Search Google Maps for restaurants, clinics, salons, and service businesses without chatbots. Reach out offering a basic chatbot for an introductory price. Build a portfolio of 3-5 real implementations before raising prices."
+        },
+        {
+          "title": "Build recurring revenue",
+          "desc": "Chatbots need updates as businesses change. Offer monthly maintenance ($50-100/month): updating responses, adding new FAQs, monitoring conversations. 10 maintenance clients = $500-1000/month recurring passive income."
+        }
+      ],
+      "example": "Raj built a restaurant reservation chatbot for a local Indian restaurant using Voiceflow + ChatGPT. The bot handled table bookings and menu questions. The owner was so impressed he referred 3 other restaurant owners. Raj now maintains chatbots for 12 local businesses at $75/month each ($900/month recurring) plus one-time setup fees of $200-400 per new client.",
+      "tips": [
+        "Start with a narrow chatbot that does one thing perfectly - don't overpromise",
+        "Always include a way for users to reach a human - chatbots can't handle everything",
+        "Document the conversation flow with screenshots so clients understand how it works"
+      ]
+    },
+    {
+      "id": "ai-automation-consulting",
+      "category": "ai-services",
+      "title": "AI Automation Consulting",
+      "icon": "⚙️",
+      "tools": [
+        "Zapier",
+        "Make",
+        "n8n",
+        "Browse AI"
+      ],
+      "platforms": [
+        "Upwork",
+        "LinkedIn",
+        "Clutch"
+      ],
+      "summary": "Help businesses automate tasks with AI workflows. From email sorting to lead capture - build systems that save hours of manual work daily.",
+      "difficulty": "Medium",
+      "url": "https://zapier.com",
+      "steps": [
+        {
+          "title": "Learn the platforms",
+          "desc": "Zapier (easiest, 7000+ apps) for simple automations. Make (formerly Integromat) for complex multi-step visual workflows. n8n for self-hosted open-source automations. Build 5-10 practice automations before taking client work."
+        },
+        {
+          "title": "Identify common needs",
+          "desc": "Most businesses need: lead capture → CRM, invoice generation, social media scheduling, customer onboarding sequences, report generation. Create a one-page PDF listing these services with clear deliverables."
+        },
+        {
+          "title": "Build a case study",
+          "desc": "Document a real automation with before/after metrics. Example: 'Client spent 2 hours/day manually entering orders. Built Zapier automation: orders now sync instantly. Saved 40 hours/month.' Specific numbers sell automation services."
+        },
+        {
+          "title": "Find clients on Upwork",
+          "desc": "Search for 'Zapier expert' or 'automation specialist' jobs. Apply with your case study. Offer a free 30-minute consultation to scope their needs. Close with a fixed-price project or hourly rate ($30-75/hour depending on complexity)."
+        },
+        {
+          "title": "Add maintenance revenue",
+          "desc": "Automations break when apps update their APIs. Offer monthly monitoring and maintenance packages ($50-150/month). Being the person who fixes things keeps you employed indefinitely with minimal ongoing work."
+        }
+      ],
+      "example": "Tom specialized in e-commerce automation. He helped an Etsy seller auto-sync orders to a shipping label service and send tracking numbers to customers. The automation saved 2 hours/day. Tom charged $300 setup + $50/month maintenance. The seller referred 5 other Etsy shop owners. Tom now maintains automations for 8 e-commerce clients, earning $400/month in recurring maintenance fees plus project work.",
+      "tips": [
+        "Always document automations with screenshots - clients forget how they work",
+        "Use Make for complex multi-step workflows; Zapier for simple ones",
+        "Test thoroughly before handing off - a broken automation is worse than no automation"
+      ]
+    },
+    {
+      "id": "ai-training-workshops",
+      "category": "ai-services",
+      "title": "AI Training & Workshops",
+      "icon": "🎓",
+      "tools": [
+        "ChatGPT",
+        "Claude",
+        "Midjourney",
+        "Notion AI"
+      ],
+      "platforms": [
+        "Teachable",
+        "Skillshare",
+        "Udemy",
+        "Gumroad"
+      ],
+      "summary": "Teach individuals and teams how to use AI tools effectively. Live workshops and recorded courses both have strong demand as companies adopt AI.",
+      "difficulty": "Medium",
+      "url": "https://teachable.com",
+      "steps": [
+        {
+          "title": "Define your training niche",
+          "desc": "Specialize: 'AI for Small Business Owners,' 'ChatGPT for Marketers,' 'AI Tools for Teachers,' 'Midjourney for Designers.' Pick an audience you understand well. General 'AI training' is too broad to stand out."
+        },
+        {
+          "title": "Create your curriculum",
+          "desc": "Use ChatGPT to outline a workshop structure: introduction, 3-5 hands-on modules, Q&A. Each module should teach one specific skill. Include practical exercises - people learn by doing, not watching."
+        },
+        {
+          "title": "Build workshop materials",
+          "desc": "Create slide decks with Canva AI or Gamma. Write handouts and cheat sheets with ChatGPT. Record demo videos with Loom or Descript. Package everything into a professional workshop kit you can reuse."
+        },
+        {
+          "title": "Deliver live workshops first",
+          "desc": "Start with live Zoom workshops ($25-50/person for 2 hours). This validates demand and generates testimonials. Record each session to create your online course later. Promote through LinkedIn, Facebook groups, and Eventbrite."
+        },
+        {
+          "title": "Create recorded courses",
+          "desc": "Turn your live workshop recordings into an online course on Teachable, Udemy, or Gumroad. Recorded courses are pure passive income after the initial creation. Price at $29-99 depending on depth."
+        }
+      ],
+      "example": "Maya created a 'ChatGPT for Small Business Owners' workshop. She developed a 2-hour curriculum with 5 practical modules, slide decks made in Canva, and a workbook created with ChatGPT. Her first live workshop had 15 attendees at $35 each ($525 for one session). She ran it monthly, recorded the third session, and turned it into a $49 online course on Gumroad. In 6 months: $2500 from live workshops + $1800 from course sales = $4300 total from one workshop concept.",
+      "tips": [
+        "Record your first workshop - even if attendance is low, the recording becomes course content",
+        "Collect testimonials immediately after each workshop - they're essential for marketing",
+        "Keep workshop groups small (15-20 max) for better interaction and Q&A"
+      ]
+    },
+    {
+      "id": "ai-data-analysis",
+      "category": "ai-services",
+      "title": "AI Data Analysis Service",
+      "icon": "📊",
+      "tools": [
+        "ChatGPT Code Interpreter",
+        "Claude",
+        "Julius AI"
+      ],
+      "platforms": [
+        "Upwork",
+        "Fiverr",
+        "Kolabtree"
+      ],
+      "summary": "Analyze spreadsheets and generate business reports using AI. Turn raw data into clear insights without needing to be a data scientist or statistician.",
+      "difficulty": "Medium",
+      "url": "https://chat.openai.com",
+      "steps": [
+        {
+          "title": "Learn AI analysis tools",
+          "desc": "ChatGPT's Code Interpreter reads Excel/CSV files, creates charts, and runs analysis. Upload a dataset and ask: 'What trends do you see? Summarize key findings. Create charts for top categories.' Julius AI is a dedicated data analysis tool."
+        },
+        {
+          "title": "Understand common requests",
+          "desc": "Clients typically need: sales trend analysis, customer segmentation, survey result summaries, inventory optimization, marketing campaign performance. You don't need statistics - just the ability to ask smart questions of the data."
+        },
+        {
+          "title": "Create sample reports",
+          "desc": "Find public datasets on Kaggle or data.gov. Create 3 report samples: a sales trend report with charts, a customer survey summary, a marketing performance dashboard. These are your portfolio pieces."
+        },
+        {
+          "title": "List your service on Fiverr",
+          "desc": "Create a gig: 'I will analyze your data and create insights report.' Specify deliverables: PDF report with charts, key findings, and recommendations. Start at $30-50 per report. Include your sample reports in gig images."
+        },
+        {
+          "title": "Offer recurring analysis",
+          "desc": "After a one-time report, propose monthly reporting packages. Many businesses need regular analysis. A client paying $100/month for monthly reports generates $1200/year - far more than one-off projects."
+        }
+      ],
+      "example": "Priya started offering data analysis on Fiverr. Her first client was a small e-commerce brand wanting to understand product sales patterns. She uploaded their CSV to ChatGPT, asked for trend analysis and top categories, and delivered a 5-page report with charts. The client was thrilled and booked monthly reports at $150/month. After 6 months, she had 6 recurring clients paying $100-200/month each, earning $900/month in recurring revenue.",
+      "tips": [
+        "Always anonymize client data before uploading to AI tools",
+        "Focus on actionable insights - tell the client what to DO with the data",
+        "Create a report template to produce consistent deliverables quickly"
+      ]
+    },
+    {
+      "id": "ai-social-media-management",
+      "category": "ai-services",
+      "title": "AI Social Media Management",
+      "icon": "📱",
+      "tools": [
+        "ChatGPT",
+        "Canva",
+        "Buffer AI",
+        "Flick"
+      ],
+      "platforms": [
+        "Upwork",
+        "Fiverr",
+        "LinkedIn"
+      ],
+      "summary": "Manage social media for small businesses using AI for content creation, scheduling, and analytics. Monthly retainer model builds stable recurring income.",
+      "difficulty": "Medium",
+      "url": "https://buffer.com",
+      "steps": [
+        {
+          "title": "Learn the social media stack",
+          "desc": "ChatGPT for caption writing and content calendars. Canva AI for visual content. Buffer or Later for scheduling. Flick for hashtag research. These tools together let one person manage 5-10 client accounts efficiently."
+        },
+        {
+          "title": "Build a content creation system",
+          "desc": "Use ChatGPT to generate a month of content ideas: 'Create a 30-day content calendar for a coffee shop's Instagram with post ideas and caption suggestions.' Generate visuals in Canva. Batch-create a week of content in 2-3 hours."
+        },
+        {
+          "title": "Create a portfolio of sample work",
+          "desc": "Pick 3 local businesses or fictional brands. Create a week of content for each: posts, stories, captions, and hashtags. Show the strategy behind the content. This demonstrates your thinking, not just your design skills."
+        },
+        {
+          "title": "Find small business clients",
+          "desc": "Search for local businesses with inactive or amateur social media. Send a friendly DM or email with specific suggestions for their account. Offer a 2-week trial at a reduced rate to prove your value, then convert to full retainer."
+        },
+        {
+          "title": "Package your services",
+          "desc": "Offer tiered packages: Basic ($300/month = 3 posts/week), Standard ($500/month = 5 posts/week + stories), Premium ($800/month = daily posts + engagement + analytics reports). Retainers build predictable monthly income."
+        }
+      ],
+      "example": "Nina started managing social media for a local bakery. She used ChatGPT for content calendars and captions, Canva for visuals, and Buffer for scheduling. Her first client paid $400/month for 4 posts/week. Within 6 months, she had 8 clients ranging from $300-600/month. Monthly recurring revenue: $3200. She works about 3 hours per client per week - about 24 hours total.",
+      "tips": [
+        "Always get client approval on content before scheduling - one wrong post can cost a client",
+        "Use analytics to show clients their growth - retained clients are long-term income",
+        "Create a content approval system (Google Doc or Notion) so clients can review easily"
+      ]
+    },
+    {
+      "id": "ai-email-marketing",
+      "category": "ai-services",
+      "title": "AI Email Marketing Service",
+      "icon": "📧",
+      "tools": [
+        "ChatGPT",
+        "Claude",
+        "Mailchimp AI",
+        "ConvertKit"
+      ],
+      "platforms": [
+        "Upwork",
+        "Fiverr",
+        "Contra"
+      ],
+      "summary": "Write and optimize email sequences, newsletters, and drip campaigns using AI. Email marketing consistently delivers the highest ROI for businesses.",
+      "difficulty": "Medium",
+      "url": "https://mailchimp.com",
+      "steps": [
+        {
+          "title": "Learn email marketing fundamentals",
+          "desc": "Key concepts: open rates, click rates, segmentation, A/B testing, drip sequences. AI writes the copy - you provide the strategy. Understanding what makes people open and click is more valuable than writing skills."
+        },
+        {
+          "title": "Master AI email writing",
+          "desc": "Use ChatGPT for subject line variations: 'Write 10 subject lines for a [product] launch email that create curiosity.' Claude for long-form email sequences. Grammarly for final polish. AI generates options - you pick the best ones."
+        },
+        {
+          "title": "Create sample email campaigns",
+          "desc": "Build 3 sample campaigns: a welcome sequence for new subscribers, an abandoned cart recovery series, a product launch announcement. Show the strategy, subject lines, email copy, and expected metrics."
+        },
+        {
+          "title": "Find clients on Upwork",
+          "desc": "Search for 'email marketing specialist' or 'Klaviyo expert' jobs. E-commerce brands especially need email marketing. Offer a one-time campaign setup as an entry point, then propose ongoing management."
+        },
+        {
+          "title": "Build recurring retainers",
+          "desc": "Email marketing is ongoing - campaigns need constant optimization. Offer monthly retainers ($300-800/month): strategy, 4-8 emails/month, A/B testing, and monthly performance reports. Each client pays monthly, building stable income."
+        }
+      ],
+      "example": "Carlos specialized in e-commerce email marketing. He used ChatGPT for subject line generation and Claude for body copy. His first client was a skincare brand needing a welcome sequence. Carlos built a 5-email welcome series for $400. The brand saw a 22% increase in first-purchase conversion from the sequence. They hired him for ongoing management at $600/month. Within 4 months, he had 5 e-commerce clients paying $400-800/month each.",
+      "tips": [
+        "Always A/B test subject lines - small changes can double open rates",
+        "Segment your client's email list before sending - targeted emails perform 3x better",
+        "Include clear calls-to-action in every email - one primary action per email"
+      ]
+    },
+    {
+      "id": "ai-app-store-optimization",
+      "category": "ai-services",
+      "title": "AI App Store Optimization",
+      "icon": "📲",
+      "tools": [
+        "ChatGPT",
+        "Claude",
+        "AppTweak",
+        "Sensor Tower"
+      ],
+      "platforms": [
+        "Fiverr",
+        "Upwork",
+        "GrowthMentor"
+      ],
+      "summary": "Optimize app titles, descriptions, and keywords for iOS and Android stores. AI generates keyword-rich copy in multiple languages. App developers pay well for ASO expertise.",
+      "difficulty": "Medium",
+      "url": "https://www.apptweak.com",
+      "steps": [
+        {
+          "title": "Learn ASO fundamentals",
+          "desc": "App Store Optimization is SEO for apps. Key factors: app title and subtitle (iOS) or title and short description (Android), keyword field, full description, ratings and reviews, download velocity. AI handles the copywriting - you provide the keyword strategy."
+        },
+        {
+          "title": "Master keyword research",
+          "desc": "Use AppTweak or Sensor Tower for keyword research. Find high-volume, low-competition keywords for your client's app. ChatGPT can analyze keyword lists and suggest combinations: 'Optimize these keywords for a meditation app targeting English-speaking markets.'"
+        },
+        {
+          "title": "Create optimized app listings",
+          "desc": "Write app titles with primary keywords. Generate 5 subtitle variations for A/B testing. Write keyword-rich descriptions using ChatGPT. Create localized versions for different countries (AI translation + cultural adaptation)."
+        },
+        {
+          "title": "Build a portfolio of ASO case studies",
+          "desc": "Pick 5 apps from the store. Analyze their current ASO, create an optimized version, and show the before/after comparison. Even if these aren't real clients, they demonstrate your methodology and expertise."
+        },
+        {
+          "title": "Find app developer clients",
+          "desc": "Indie developers and small app studios are the sweet spot. Search Upwork for 'ASO specialist' jobs. Reach out to app developers on Twitter/Reddit offering a free audit of their app store listing. The audit converts to paid work."
+        }
+      ],
+      "example": "Dev optimized a language learning app's store listing. He researched keywords with AppTweak, rewrote the title and description with ChatGPT, and localized for 5 languages. The app's organic downloads increased by 40% in 2 months. He charged $500 for the initial optimization and $200/month for ongoing ASO updates. He now manages ASO for 7 apps, earning $1400/month in recurring revenue plus one-time optimization fees.",
+      "tips": [
+        "App Store and Google Play have different ranking factors - optimize separately for each",
+        "A/B test your app icon and screenshots alongside copy - visuals drive downloads",
+        "Track keyword rankings weekly and adjust strategy based on what's working"
+      ]
+    },
+    {
+      "id": "ai-ugc-content",
+      "category": "content-creation",
+      "title": "AI-Assisted UGC & Affiliate Content",
+      "icon": "🎯",
+      "tools": [
+        "ChatGPT",
+        "Canva",
+        "CapCut",
+        "HeyGen"
+      ],
+      "platforms": [
+        "TikTok",
+        "Instagram",
+        "Amazon Associates",
+        "LTK"
+      ],
+      "summary": "Create user-generated-style product review content with AI scripting and editing. Build affiliate income through authentic reviews across social platforms.",
+      "difficulty": "Easy",
+      "url": "https://www.tiktok.com",
+      "steps": [
+        {
+          "title": "Understand UGC content",
+          "desc": "User-Generated Content looks authentic and unpolished - like a friend recommending a product. The secret is that much of it is scripted. AI helps write compelling hooks and review structures that feel natural while being strategically persuasive."
+        },
+        {
+          "title": "Create review scripts",
+          "desc": "Use ChatGPT: 'Write a 60-second product review script for [product] in a casual, relatable tone. Include: attention hook, personal experience, specific features, honest pros/cons, and call to action.' AI generates the structure; you film naturally."
+        },
+        {
+          "title": "Produce review content",
+          "desc": "Film short product reviews on your phone. Edit in CapCut with AI captions and effects. Add AI-generated B-roll or product shots. Each video takes 30-45 minutes from script to publish. Post 3-5 times per week across TikTok, Reels, and Shorts."
+        },
+        {
+          "title": "Build affiliate income",
+          "desc": "Join Amazon Associates, LTK, or ShareASale. Add affiliate links in your bio and video descriptions. Even small accounts can earn $50-200/month from affiliate sales. As your following grows, so does affiliate income."
+        },
+        {
+          "title": "Scale with brand deals",
+          "desc": "Once you have 5000+ followers (any platform), brands will reach out for paid reviews. User-generated content creators typically charge $100-500 per video depending on following and engagement. Combine affiliate + brand deals for maximum income."
+        }
+      ],
+      "example": "Taylor started posting AI-assisted product reviews on TikTok. She used ChatGPT for script hooks and review structure, filmed on her phone, and edited in CapCut. After 3 months of consistent posting, she had 8000 TikTok followers. She earned $150/month from Amazon Associates and landed her first paid brand deal for $200. By month 6, she had 25K followers and was earning $500-800/month from affiliate + brand deals.",
+      "tips": [
+        "Disclose affiliate relationships - it's required by FTC guidelines and builds trust",
+        "Focus on products you genuinely use - authentic enthusiasm converts better",
+        "Repurpose your best-performing content across TikTok, Reels, and YouTube Shorts"
+      ]
+    },
+    {
+      "id": "ai-financial-content",
+      "category": "content-creation",
+      "title": "AI Financial Content Writing",
+      "icon": "💰",
+      "tools": [
+        "Claude",
+        "ChatGPT",
+        "Notion AI",
+        "Grammarly"
+      ],
+      "platforms": [
+        "Upwork",
+        "Medium (Partner Program)",
+        "Substack",
+        "Contently"
+      ],
+      "summary": "Write personal finance articles, investment explainers, and money management content. Finance content commands premium freelance rates due to high advertiser demand.",
+      "difficulty": "Medium",
+      "url": "https://claude.ai",
+      "steps": [
+        {
+          "title": "Learn financial content basics",
+          "desc": "Financial content has specific requirements: accuracy (numbers must be right), disclaimers (not financial advice), clear explanations of complex topics. Claude excels at explaining financial concepts in plain language. ChatGPT is good for outlining and structuring."
+        },
+        {
+          "title": "Choose your sub-niche",
+          "desc": "Specialize in one area: personal finance for beginners, credit card comparisons, investing basics, budgeting and saving, crypto explainers, or small business finance. Niche specialists earn more than general finance writers."
+        },
+        {
+          "title": "Build a writing portfolio",
+          "desc": "Write 5 sample articles on Medium: 'How to Start Investing with $100,' 'Best High-Yield Savings Accounts 2026,' 'Credit Score Explained Simply.' Publish them on Medium - they serve as both portfolio pieces and potential income sources."
+        },
+        {
+          "title": "Find high-paying clients",
+          "desc": "Search Upwork for 'finance writer' or 'personal finance content.' Finance content pays $0.20-1.00+/word compared to $0.05-0.15 for general writing. Apply with relevant samples. Contently and ClearVoice also list premium finance writing gigs."
+        },
+        {
+          "title": "Publish on Medium for passive income",
+          "desc": "Medium's Partner Program pays based on member reading time. Financial content performs well because readers spend more time on it. Write and publish regularly on Medium to build both portfolio credibility and passive monthly earnings."
+        }
+      ],
+      "example": "Jason specialized in personal finance writing. He wrote 10 Medium articles about budgeting, saving, and beginner investing to build his portfolio. He started applying to Upwork finance writing jobs with these samples. His first client paid $0.25/word for a 2000-word investing guide ($500). Within 4 months, he had 3 regular clients and was earning $2000-3000/month from freelance finance writing, plus $50-100/month from Medium's Partner Program.",
+      "tips": [
+        "Always include disclaimers: 'This is for informational purposes only, not financial advice'",
+        "Fact-check all numbers - financial readers will catch and call out errors",
+        "Finance topics have high competition on Medium - focus on underserved angles"
+      ]
+    },
+    {
+      "id": "ai-discord-community",
+      "category": "content-creation",
+      "title": "Build an AI-Enhanced Community",
+      "icon": "💬",
+      "tools": [
+        "ChatGPT",
+        "Midjourney",
+        "Notion AI"
+      ],
+      "platforms": [
+        "Discord",
+        "Patreon",
+        "Memberful",
+        "Ko-fi"
+      ],
+      "summary": "Create a paid community around a niche interest. AI bots handle FAQs, generate content, and moderate discussions. Recurring subscription revenue from engaged community members.",
+      "difficulty": "Medium",
+      "url": "https://discord.com",
+      "steps": [
+        {
+          "title": "Define your community niche",
+          "desc": "Successful paid communities serve specific interests: AI tools for designers, freelance writers support group, indie game developers, productivity enthusiasts. The niche should be specific enough to attract dedicated members but broad enough to sustain conversation."
+        },
+        {
+          "title": "Set up your Discord server",
+          "desc": "Create a Discord server with clear channels: welcome, announcements, general discussion, resources, Q&A, off-topic. Set up roles and permissions. Add an AI chatbot for FAQ answering using a Discord bot connected to ChatGPT API."
+        },
+        {
+          "title": "Create value for members",
+          "desc": "Community members pay for: exclusive resources (templates, guides), direct access to you (Q&A sessions, feedback), networking with peers, curated content, accountability. Plan weekly content: Monday discussion topic, Wednesday resource drop, Friday Q&A."
+        },
+        {
+          "title": "Launch and price your community",
+          "desc": "Start with a free tier to build momentum. Once you have 100+ active members, introduce a paid tier ($5-10/month) with premium channels and exclusive content. Patreon, Memberful, and Ko-fi handle subscription billing automatically."
+        },
+        {
+          "title": "Scale with AI moderation",
+          "desc": "As the community grows, AI bots handle: welcome messages for new members, FAQ responses, moderation alerts, content scheduling, and polls. AI handles the repetitive work; you focus on high-value interactions and community direction."
+        }
+      ],
+      "example": "Kevin started a free Discord community for freelance writers using AI tools. He shared tips, hosted weekly Q&As, and built a resource library with Notion AI. After reaching 200 active members, he launched a $7/month premium tier with exclusive templates, writing feedback, and monthly workshops. Within 3 months, he had 45 paid members ($315/month). With AI handling welcome messages and FAQs, he spends about 5 hours/week managing the community.",
+      "tips": [
+        "Consistency is everything in communities - post daily, even if just a discussion question",
+        "Create a 'wins' channel where members share successes - it motivates others",
+        "Use AI to summarize long discussions so members can catch up quickly"
+      ]
+    },
+    {
+      "id": "ai-proofreading",
+      "category": "freelancing",
+      "title": "AI Proofreading & Editing",
+      "icon": "🔍",
+      "tools": [
+        "Grammarly",
+        "ChatGPT",
+        "Claude",
+        "ProWritingAid"
+      ],
+      "platforms": [
+        "Fiverr",
+        "Upwork",
+        "Reedsy",
+        "Scribendi"
+      ],
+      "summary": "Proofread and edit documents, manuscripts, academic papers, and business reports using AI for grammar, clarity, and style improvements. Faster than manual editing with consistent quality.",
+      "difficulty": "Easy",
+      "url": "https://www.grammarly.com",
+      "steps": [
+        {
+          "title": "Learn AI editing tools",
+          "desc": "Grammarly catches grammar, punctuation, and tone issues. ChatGPT and Claude handle deeper editing like restructuring paragraphs, improving flow, and checking logical consistency."
+        },
+        {
+          "title": "Choose your editing specialty",
+          "desc": "Specialize in one document type: academic papers, business reports, fiction manuscripts, or blog content. Academic editing pays best due to formatting requirements like APA/MLA."
+        },
+        {
+          "title": "Build editing samples",
+          "desc": "Find public domain text, edit it, and show before/after with tracked changes. Annotate your edits to explain why you made each change. This sells your expertise."
+        },
+        {
+          "title": "List editing services",
+          "desc": "On Fiverr, tiered packages: Basic (grammar), Standard (grammar + clarity), Premium (full developmental edit). Reedsy and Scribendi have higher-paying clients."
+        },
+        {
+          "title": "Offer rush services",
+          "desc": "Students and businesses need urgent editing. Offer 24-hour turnaround at a premium. AI tools make fast editing possible without sacrificing quality."
+        }
+      ],
+      "example": "Claire started proofreading academic papers on Fiverr using Grammarly and ChatGPT. Her first gig was $15 for a 2000-word paper, delivered in 12 hours. After a 5-star review, she raised to $35. Within 4 months, she was editing 20-25 papers/month. She also joined Reedsy where manuscripts pay $0.02-0.05/word, earning $500-800/month for 2-3 manuscripts.",
+      "tips": [
+        "Always use track changes so clients see exactly what you edited",
+        "Create a style guide checklist for each document type",
+        "Ask clients for citation style upfront — reformatting citations is time-consuming"
+      ]
+    },
+    {
+      "id": "ai-seo-writing",
+      "category": "freelancing",
+      "title": "AI SEO Content Writing",
+      "icon": "🔎",
+      "tools": [
+        "ChatGPT",
+        "Claude",
+        "Surfer SEO",
+        "Writesonic"
+      ],
+      "platforms": [
+        "Upwork",
+        "Fiverr",
+        "ProBlogger",
+        "Contently"
+      ],
+      "summary": "Write SEO-optimized blog posts, landing pages, and product descriptions. AI handles keyword research, content structure, and first drafts. SEO writing pays significantly more than general content writing.",
+      "difficulty": "Medium",
+      "url": "https://surferseo.com",
+      "steps": [
+        {
+          "title": "Learn SEO fundamentals",
+          "desc": "Understand keyword research, search intent, heading structure, meta descriptions, and internal linking. AI writes the content — you provide the SEO strategy that makes it rank."
+        },
+        {
+          "title": "Set up your SEO toolkit",
+          "desc": "Surfer SEO or Writesonic for keyword research and content optimization. ChatGPT drafts. Claude polishes. The combination gives keyword-optimized content that reads naturally."
+        },
+        {
+          "title": "Create sample SEO posts",
+          "desc": "Write 3 sample posts optimized for specific keywords. Show the keyword research, content brief, and final post. Demonstrate the strategy behind the content."
+        },
+        {
+          "title": "Find content marketing clients",
+          "desc": "SEO writing pays $0.10-0.50/word vs $0.03-0.10 for general writing. Search Upwork for 'SEO content writer.' ProBlogger job board lists quality content gigs."
+        },
+        {
+          "title": "Build retainer relationships",
+          "desc": "Offer monthly packages: 4 blog posts, 2 landing pages, keyword research included, $1000-2000/month. Retainer clients provide stable recurring income."
+        }
+      ],
+      "example": "Marcus specialized in SaaS SEO content. He used Surfer SEO for keyword research and ChatGPT for drafting, then added industry expertise. His first client paid $200 for 4 blog posts. After 3 months of consistent quality, he had 5 retainer clients at $1500/month each, earning $7500/month from SEO writing retainer work.",
+      "tips": [
+        "Never stuff keywords — Google penalizes this. Use keywords naturally",
+        "Include internal links to your clients' other posts — this is SEO gold",
+        "Create content briefs before writing to align expectations with clients"
+      ]
+    },
+    {
+      "id": "ai-virtual-assistant",
+      "category": "freelancing",
+      "title": "AI Virtual Assistant Service",
+      "icon": "🤝",
+      "tools": [
+        "ChatGPT",
+        "Claude",
+        "Notion AI",
+        "Otter.ai"
+      ],
+      "platforms": [
+        "Upwork",
+        "Fiverr",
+        "Belay",
+        "Time Etc"
+      ],
+      "summary": "Offer virtual assistant services powered by AI: email management, calendar scheduling, research, data entry, and customer support. AI handles routine tasks so you can serve multiple clients simultaneously.",
+      "difficulty": "Easy",
+      "url": "https://chat.openai.com",
+      "steps": [
+        {
+          "title": "Define your VA services",
+          "desc": "Common VA tasks: email filtering and drafting, calendar management, travel booking, data entry, research, meeting notes, and customer inquiry responses. AI tools accelerate every one."
+        },
+        {
+          "title": "Build your AI toolkit",
+          "desc": "ChatGPT for drafting emails and research. Claude for summarizing documents. Otter.ai for meeting transcription. Notion AI for project tracking. With these tools, handle 3-5 clients."
+        },
+        {
+          "title": "Create service packages",
+          "desc": "Tiered VA packages: 10 hours/week ($300-500), 20 hours/week ($600-900), 40 hours/week ($1200-1800). Define exactly what's included to prevent scope creep."
+        },
+        {
+          "title": "Find VA clients",
+          "desc": "Upwork has many VA listings. Belay and Time Etc are specialized VA platforms. Small business owners and busy executives are the ideal client profile."
+        },
+        {
+          "title": "Scale with AI efficiency",
+          "desc": "AI tools let you do in 1 hour what used to take 3. Target 4-5 retainer clients for $3000-5000/month. Document processes so you can eventually hire sub-VAs."
+        }
+      ],
+      "example": "Rachel started as a VA for two small business owners using ChatGPT for emails, Otter.ai for meetings, and Notion AI for projects. Each client paid $500/month for 15 hours. AI tools cut actual work to 8-10 hours per client. She added 3 more clients, earning $2500/month while working 35 hours/week.",
+      "tips": [
+        "Use a standard onboarding questionnaire for every new client",
+        "Set clear communication hours — VAs get burnout from 24/7 expectations",
+        "Create email and document templates with AI to reuse across clients"
+      ]
+    },
+    {
+      "id": "ai-phone-wallpapers",
+      "category": "digital-products",
+      "title": "Sell AI Phone Wallpapers",
+      "icon": "📱",
+      "tools": [
+        "Midjourney",
+        "DALL-E",
+        "Canva",
+        "Stable Diffusion"
+      ],
+      "platforms": [
+        "Etsy",
+        "Gumroad",
+        "Ko-fi",
+        "Patreon"
+      ],
+      "summary": "Create beautiful phone wallpapers with AI art. A single wallpaper pack can sell hundreds of times with zero ongoing work. One of the simplest digital product businesses to start.",
+      "difficulty": "Easy",
+      "url": "https://www.midjourney.com",
+      "steps": [
+        {
+          "title": "Research trending styles",
+          "desc": "Browse Etsy and Pinterest: aesthetic quotes, nature gradients, minimalist abstract, dark mode, pastel vibes, space/galaxy. Packs of 10-50 wallpapers sell for $3-8."
+        },
+        {
+          "title": "Generate wallpaper collections",
+          "desc": "Midjourney with 9:16 ratio prompts. Generate 20-30 wallpapers per theme. Create themed collections: 'Cozy Autumn Vibes,' 'Neon City Nights,' 'Soft Pastel Dreams.'"
+        },
+        {
+          "title": "Format for all phones",
+          "desc": "Standard 9:16 ratio (1080x1920) works for most. Include a 'how to install' PDF. Small touches reduce customer support and increase reviews."
+        },
+        {
+          "title": "List on Etsy and Gumroad",
+          "desc": "Etsy: keyword-rich titles, $3-8/pack. Gumroad: higher margins. 20 packs selling 10 copies/month at $5 each = $1000/month passive."
+        },
+        {
+          "title": "Build a wallpaper empire",
+          "desc": "Create 10 themed packs initially. Track bestsellers. Create seasonal editions. Scale by adding new themes monthly."
+        }
+      ],
+      "example": "Jenna created 8 AI wallpaper packs: pastel, dark mode, nature, space, boho, retro, minimalist, floral. Each had 30 wallpapers at $5. She sold 400+ packs in 3 months. Her 'Dark Mode Aesthetic' pack sold 120+ copies. Earning $500-700/month passive from wallpapers alone.",
+      "tips": [
+        "Create mockup images showing the wallpaper on different phone models",
+        "Offer a 'Mega Bundle' of all packs at a discount",
+        "Seasonal themes get sales spikes during their windows"
+      ]
+    },
+    {
+      "id": "ai-icon-packs",
+      "category": "digital-products",
+      "title": "Sell AI Icon Packs",
+      "icon": "🔣",
+      "tools": [
+        "Midjourney",
+        "DALL-E",
+        "Figma AI",
+        "Canva"
+      ],
+      "platforms": [
+        "Etsy",
+        "Creative Market",
+        "IconScout",
+        "Flaticon"
+      ],
+      "summary": "Create themed icon sets with AI-assisted design. Icon packs sell to app developers, web designers, and content creators who need consistent visual elements.",
+      "difficulty": "Medium",
+      "url": "https://www.figma.com",
+      "steps": [
+        {
+          "title": "Learn icon design basics",
+          "desc": "Icons need consistency: same stroke width, corner radius, visual weight. AI generates concepts — you ensure consistency. Each set should have 20-50 icons that feel unified."
+        },
+        {
+          "title": "Generate icon concepts",
+          "desc": "Midjourney for concepts: 'minimalist line icon set, 24px grid, consistent 2px stroke.' Import into Figma and refine. Export as SVG, PNG, and icon font formats."
+        },
+        {
+          "title": "Create themed sets",
+          "desc": "Popular: business, social media, e-commerce, healthcare, education, food, travel. Niche: coffee shop, yoga, pet care, gaming. Niche sets have less competition."
+        },
+        {
+          "title": "List on design marketplaces",
+          "desc": "Creative Market and IconScout ($15-40/set). Etsy for simpler sets ($5-15). Include multiple file formats in every listing."
+        },
+        {
+          "title": "Sell to developers",
+          "desc": "React and Flutter developers buy icon libraries. List on npm and pub.dev. Offer commercial license at premium. One icon library can become standard in its niche."
+        }
+      ],
+      "example": "David created a 'Minimalist E-commerce Icon Set' with 40 icons using Midjourney and Figma refinement. He listed on Creative Market for $24 and IconScout for $19. The set sold 60+ times in 4 months. He now has 8 icon packs earning $400-600/month passive.",
+      "tips": [
+        "Always provide SVG format — essential for developers",
+        "Include a preview showing all icons at a glance",
+        "Offer a free sample of 5-10 icons to attract buyers"
+      ]
+    },
+    {
+      "id": "ai-textures-patterns",
+      "category": "digital-products",
+      "title": "Sell AI Textures & Patterns",
+      "icon": "🪨",
+      "tools": [
+        "Midjourney",
+        "DALL-E",
+        "Stable Diffusion",
+        "Adobe Firefly"
+      ],
+      "platforms": [
+        "Etsy",
+        "Creative Market",
+        "ArtStation",
+        "Textures.com"
+      ],
+      "summary": "Create seamless textures and repeating patterns with AI. Sell to game developers, 3D artists, graphic designers, and fabric designers who need high-quality surface materials.",
+      "difficulty": "Easy",
+      "url": "https://www.midjourney.com",
+      "steps": [
+        {
+          "title": "Understand texture types",
+          "desc": "Fabric (denim, linen, silk), natural (wood, stone, marble), abstract (gradients, noise, geometric), specialty (rust, concrete, watercolor). Each audience values different qualities."
+        },
+        {
+          "title": "Generate seamless textures",
+          "desc": "Midjourney: 'seamless marble texture, tileable, high resolution, 4K.' Test seamlessness by tiling in Canva. Seamless textures are worth 3x more because they work in 3D engines."
+        },
+        {
+          "title": "Create pattern collections",
+          "desc": "Design repeating patterns for fabric and wallpaper. Package with multiple color variations. Pattern designers on Spoonflower earn royalties from fabric sales."
+        },
+        {
+          "title": "List on multiple platforms",
+          "desc": "Creative Market ($10-25/pack), Etsy ($5-12), Textures.com ($commission), ArtStation (3D community). Cross-list everywhere."
+        },
+        {
+          "title": "Build a texture library",
+          "desc": "Themed bundles: '20 Marble Textures,' '30 Fabric Patterns.' Build 200+ textures. Each texture sells repeatedly for years with zero additional work."
+        }
+      ],
+      "example": "Nadia created 80 seamless marble and stone textures organized into 4 packs: Classic Marble, Modern Concrete, Natural Stone, Abstract Patterns. Listed on Creative Market ($18/pack) and Etsy ($8/pack). In 6 months: 300+ sales, roughly $2500. Her 'Classic Marble' pack hit Creative Market bestseller with 90+ sales.",
+      "tips": [
+        "Always verify seamlessness by tiling 4x before listing",
+        "Include both 4K and web-optimized versions",
+        "Join game dev Discord servers to understand what textures indies need"
+      ]
+    },
+    {
+      "id": "ai-virtual-influencer",
+      "category": "content-creation",
+      "title": "AI Virtual Influencer Account",
+      "icon": "🌟",
+      "tools": [
+        "Midjourney",
+        "HeyGen",
+        "DALL-E",
+        "CapCut"
+      ],
+      "platforms": [
+        "Instagram",
+        "TikTok",
+        "YouTube"
+      ],
+      "summary": "Create a virtual influencer character using AI-generated visuals and voices. Build a following, land brand deals, and monetize without ever appearing on camera.",
+      "difficulty": "Medium",
+      "url": "https://www.midjourney.com",
+      "steps": [
+        {
+          "title": "Design your virtual persona",
+          "desc": "Create a consistent character with Midjourney: appearance, style, personality, niche. Use seed numbers for consistency. The character needs a unique look that stands out."
+        },
+        {
+          "title": "Define content strategy",
+          "desc": "Virtual influencers work in: fashion (AI outfits), travel (AI in exotic locations), art (AI artist persona), lifestyle. Pick a niche where visuals matter more than authenticity. Post 3-5x/week."
+        },
+        {
+          "title": "Generate and post content",
+          "desc": "Midjourney for visuals, ChatGPT for captions. Post across Instagram, TikTok, YouTube. Engage comments with AI-generated responses. Build a narrative arc for the character."
+        },
+        {
+          "title": "Land brand deals",
+          "desc": "At 10K+ followers, brands reach out. Virtual influencers charge $200-1000/post. Advantage: no travel, no photoshoots, no scheduling conflicts."
+        },
+        {
+          "title": "Expand to merchandise",
+          "desc": "Sell character merchandise: phone cases, stickers, prints via print-on-demand. A recognizable virtual character becomes a brand beyond sponsored content."
+        }
+      ],
+      "example": "Liam created 'Nova' — a virtual fashion influencer using Midjourney for character and outfit generation. He posted daily on Instagram. After 5 months: 35K Instagram, 50K TikTok. He landed 3 brand deals at $300-500/month and launched Nova-branded phone cases on Redbubble (+$200/month). Total: $1100-1700/month from a virtual character.",
+      "tips": [
+        "Be transparent the character is AI-generated — audiences appreciate honesty",
+        "Use seed numbers in Midjourney to maintain character consistency",
+        "Study real influencers to understand content patterns that work"
+      ]
+    },
+    {
+      "id": "ai-meditation-content",
+      "category": "content-creation",
+      "title": "AI Meditation & Sleep Content",
+      "icon": "🧘",
+      "tools": [
+        "ChatGPT",
+        "ElevenLabs",
+        "Suno",
+        "Midjourney"
+      ],
+      "platforms": [
+        "YouTube",
+        "Spotify",
+        "Insight Timer",
+        "Calm"
+      ],
+      "summary": "Create guided meditation, sleep stories, and relaxation content with AI. Audio wellness content has massive demand with high re-listen rates and loyal audiences.",
+      "difficulty": "Easy",
+      "url": "https://elevenlabs.io",
+      "steps": [
+        {
+          "title": "Choose content style",
+          "desc": "Guided meditations (5-20 min), sleep stories (15-30 min), ambient soundscapes, affirmations, breathing exercises. Start with one format. Sleep content has highest re-listen rates."
+        },
+        {
+          "title": "Create scripts and audio",
+          "desc": "ChatGPT writes meditation scripts. ElevenLabs narrates with calm voices. Suno generates ambient background music. One 15-minute session takes about an hour to produce."
+        },
+        {
+          "title": "Add visual elements",
+          "desc": "For YouTube, pair audio with AI-generated nature scenes (Midjourney) or slow-zoom animations. The visual supports the audio, not competes with it."
+        },
+        {
+          "title": "Distribute on audio platforms",
+          "desc": "Spotify, Apple Podcasts for audio. Insight Timer for meditation-specific. YouTube for video. One audio file becomes content on 4+ platforms."
+        },
+        {
+          "title": "Monetize wellness content",
+          "desc": "YouTube ads, Spotify streaming, Insight Timer donations. Premium: ad-free versions, extended sessions, exclusive stories via Patreon. Wellness apps like Calm pay for licensed content."
+        }
+      ],
+      "example": "Akira started a sleep story channel. ChatGPT for scripts, ElevenLabs for narration, Suno for ambient music. 2 new stories/week. After 4 months: 15K YouTube subs, 8K Spotify monthly listeners. YouTube ads: $300-500/month. Spotify: $200-400/month. Patreon: $150/month. Total: $650-1050/month from relaxation content.",
+      "tips": [
+        "Keep consistent volume levels across all tracks",
+        "Create a consistent intro/outro for brand recognition",
+        "Sleep content has high retention — subscribers come back every night"
+      ]
+    },
+    {
+      "id": "ai-gaming-content",
+      "category": "content-creation",
+      "title": "AI Gaming Content Channel",
+      "icon": "🎮",
+      "tools": [
+        "ChatGPT",
+        "CapCut",
+        "ElevenLabs",
+        "Midjourney"
+      ],
+      "platforms": [
+        "YouTube",
+        "TikTok",
+        "Twitch"
+      ],
+      "summary": "Create gaming content with AI: lore videos, game guides, tier lists, and news summaries. Gaming is the largest YouTube category with massive audience demand.",
+      "difficulty": "Medium",
+      "url": "https://www.youtube.com",
+      "steps": [
+        {
+          "title": "Pick your gaming niche",
+          "desc": "Options: game lore/story explanations (high watch time), tier lists and rankings (viral), game guides and tutorials (search traffic), gaming news, or specific game communities (Minecraft, GTA, Valorant)."
+        },
+        {
+          "title": "Create content with AI",
+          "desc": "ChatGPT researches game lore and writes scripts. ElevenLabs narrates. Midjourney generates fantasy illustrations. CapCut edits gameplay clips with captions. 2-3 hours per video."
+        },
+        {
+          "title": "Build consistent uploads",
+          "desc": "2-3 videos/week minimum. Batch-write scripts on weekends, edit through the week. More uploads = faster growth in the gaming algorithm."
+        },
+        {
+          "title": "Optimize for search",
+          "desc": "Gaming is highly searchable. Descriptive titles: 'The Complete Lore of [Game] Explained.' Eye-catching thumbnails. First 30 seconds determine retention."
+        },
+        {
+          "title": "Monetize gaming content",
+          "desc": "YouTube Partner Program (1000 subs/4000 hours). Gaming RPM is lower ($1-3) but volume compensates. Affiliate links, merchandise, memberships, game publisher sponsorships."
+        }
+      ],
+      "example": "Tyler started a game lore channel. ChatGPT for research/scripts, ElevenLabs for narration, Midjourney for illustrations, CapCut for editing. 2 videos/week for 4 months. At 2500 subs and 100K monthly views: monetized. Ads: $200-400/month. Affiliate: $150-300/month. Memberships: $80/month. Total: $430-780/month and growing.",
+      "tips": [
+        "Focus on evergreen content — guides are valuable for years, news for days",
+        "Create playlist series — viewers binge the whole series",
+        "Game publishers sometimes sponsor lore/guide content for new releases"
+      ]
+    },
+    {
+      "id": "ai-seo-service",
+      "category": "ai-services",
+      "title": "AI SEO Optimization Service",
+      "icon": "📈",
+      "tools": [
+        "ChatGPT",
+        "Claude",
+        "Surfer SEO",
+        "Ahrefs"
+      ],
+      "platforms": [
+        "Upwork",
+        "Fiverr",
+        "LinkedIn",
+        "Clutch"
+      ],
+      "summary": "Offer SEO audits, keyword research, and content optimization as a service. AI tools handle data analysis and recommendations — you deliver the strategy and implementation plan.",
+      "difficulty": "Medium",
+      "url": "https://ahrefs.com",
+      "steps": [
+        {
+          "title": "Learn the SEO tools",
+          "desc": "Ahrefs/Semrush for keyword research and competitor analysis. Surfer SEO for content optimization. ChatGPT for meta descriptions and content briefs. Master one before adding others."
+        },
+        {
+          "title": "Create an SEO audit template",
+          "desc": "Standardize: technical SEO, on-page SEO, off-page SEO, content gaps. AI analyzes each section and generates recommendations."
+        },
+        {
+          "title": "Package SEO services",
+          "desc": "Basic Audit ($200 one-time), Monthly SEO ($500-1000/month ongoing), Content + SEO bundle ($800-1500/month). Retainers build stable recurring income."
+        },
+        {
+          "title": "Find SEO clients",
+          "desc": "Find businesses with poor SEO: slow sites, missing meta descriptions, thin content. Offer a free mini-audit showing quick wins. Convert to paid engagement."
+        },
+        {
+          "title": "Report results clearly",
+          "desc": "Monthly reports: keyword ranking improvements, traffic changes, completed optimizations. Clear reporting retains clients longer than anything."
+        }
+      ],
+      "example": "Derek offered SEO audits on Upwork using Ahrefs and ChatGPT. First audit: $150 for an e-commerce site. Client saw 30% traffic increase in 2 months after implementing recommendations. They hired him for ongoing SEO at $600/month. Within 6 months: 4 retainer clients at $500-800/month each = $2600/month recurring SEO revenue.",
+      "tips": [
+        "Focus on quick wins first — title tags and meta descriptions show immediate results",
+        "Create reusable report templates for efficiency",
+        "Never guarantee specific rankings — SEO takes time and algorithms change"
+      ]
+    },
+    {
+      "id": "ai-recruitment",
+      "category": "ai-services",
+      "title": "AI Recruitment & HR Screening",
+      "icon": "👥",
+      "tools": [
+        "ChatGPT",
+        "Claude",
+        "Notion AI",
+        "Textio"
+      ],
+      "platforms": [
+        "Upwork",
+        "Fiverr",
+        "LinkedIn",
+        "Indeed"
+      ],
+      "summary": "Help companies screen candidates, write job descriptions, and optimize hiring with AI. HR departments increasingly use AI tools but need specialists to implement them effectively.",
+      "difficulty": "Medium",
+      "url": "https://chat.openai.com",
+      "steps": [
+        {
+          "title": "Learn AI recruitment tools",
+          "desc": "ChatGPT writes job descriptions and interview questions. Claude analyzes resumes against requirements. Textio optimizes job posts for inclusive language."
+        },
+        {
+          "title": "Offer recruitment services",
+          "desc": "Job descriptions ($50-100 each), resume screening ($10-20/candidate), interview questions, communication templates, hiring process documentation."
+        },
+        {
+          "title": "Use AI for bias reduction",
+          "desc": "AI helps reduce unconscious bias in job descriptions and screening. Check for gendered language, cultural bias, accessibility. Major selling point for corporate clients."
+        },
+        {
+          "title": "Find HR clients",
+          "desc": "Small/mid-size companies lack HR staff. Target founders and operations managers. LinkedIn is best for finding HR decision-makers."
+        },
+        {
+          "title": "Build a recruitment agency",
+          "desc": "Expand to full-cycle: sourcing, screening, interviews, reference checks. AI handles admin, you manage relationships. Charge 10-20% of hired candidate's first-year salary."
+        }
+      ],
+      "example": "Sophie wrote job descriptions for startups using ChatGPT and Textio. Each JD took 30 minutes at $75. She expanded to candidate screening with Claude. Within 6 months: 3 startups at $1500-2500/month each for full recruitment support, plus $3000 in placement fees from 2 successful hires.",
+      "tips": [
+        "Remove candidate names during AI screening to reduce bias",
+        "Create a library of job description templates by role",
+        "Stay current on employment laws — recruitment has legal implications"
+      ]
+    },
+    {
+      "id": "ai-real-estate-listings",
+      "category": "ai-services",
+      "title": "AI Real Estate Marketing",
+      "icon": "🏡",
+      "tools": [
+        "ChatGPT",
+        "Canva",
+        "Midjourney",
+        "Remove.bg"
+      ],
+      "platforms": [
+        "Fiverr",
+        "Upwork",
+        "LinkedIn"
+      ],
+      "summary": "Write property descriptions, create virtual staging images, and produce listing marketing materials for real estate agents using AI. The real estate industry spends heavily on marketing and is always looking for faster ways to list properties.",
+      "difficulty": "Easy",
+      "url": "https://chat.openai.com",
+      "steps": [
+        {
+          "title": "Learn real estate marketing needs",
+          "desc": "Agents need: property descriptions (200-500 words each), social media posts for open houses, virtual staging photos, email newsletters, and listing flyers. AI tools handle every piece of this workflow."
+        },
+        {
+          "title": "Master property descriptions",
+          "desc": "ChatGPT excels at writing compelling property descriptions: \"Write a luxury real estate listing for a 4-bedroom modern home with pool and mountain views.\" Include key features, nearby amenities, and lifestyle benefits. Good descriptions sell houses faster."
+        },
+        {
+          "title": "Create listing marketing packages",
+          "desc": "Offer a complete listing package: 1 property description, 5 social media posts, 1 email newsletter, 5 virtually staged photos (using AI background replacement). Package price: $100-200 per listing. Agents who list 2-3 homes/month become regular clients."
+        },
+        {
+          "title": "Find real estate clients",
+          "desc": "Search for real estate agents on Instagram and LinkedIn. Many agents still write their own listings. Send a DM with a free sample description for one of their current listings. If they like it, propose ongoing work."
+        },
+        {
+          "title": "Scale to teams and brokerages",
+          "desc": "Once established with individual agents, approach real estate teams and brokerages. They need marketing at scale — 10-20 listings per month. A $150/listing package x 15 listings/month = $2250/month from one brokerage client."
+        }
+      ],
+      "example": "Monica started writing AI-assisted property descriptions for real estate agents on Fiverr. She used ChatGPT for descriptions and Canva for social media graphics. Her first client ordered 3 listing packages at $120 each. Within 3 months, she had 8 regular agent clients and 1 brokerage team ordering 10-15 listings/month. Monthly revenue: $2500-3500 from real estate content alone.",
+      "tips": [
+        "Create a questionnaire for agents to fill out about each property — consistent input = consistent output",
+        "Learn real estate terminology: square footage, zoning, HOA, comps — agents respect writers who speak their language",
+        "Offer rush turnaround for hot listings — agents sometimes need a listing live within hours"
+      ]
+    }
+  ]
+};
