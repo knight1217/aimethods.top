@@ -4,13 +4,13 @@
 (function(){
   var s=document.createElement('script');
   s.async=true;
-  s.src='https://www.googletagmanager.com/gtag/js?id=G-HNVS8KTTEE';
+  s.src='https://www.googletagmanager.com/gtag/js?id=G-76KR373Q5G';
   document.head.appendChild(s);
   window.dataLayer=window.dataLayer||[];
   function g(){dataLayer.push(arguments);}
   window.gtag=g;
   g('js',new Date());
-  g('config','G-HNVS8KTTEE');
+  g('config','G-76KR373Q5G');
 })();
 
 var data=null;
